@@ -6,13 +6,13 @@
         $(selector).effect("highlight", {}, 2000);
     }
 
-    function initToggleexpands() {
-        var expandTitles = $(".admonition-expand-to-read-more-to-read-more .admonition-title");
+    function initToggleAnswers() {
+        var answerTitles = $(".admonition-expand-to-read-more .admonition-title");
 
         $(".admonition-title ~ *", ".admonition-expand-to-read-more").toggle();
-        expandTitles.toggleClass("expanded");
+        answerTitles.toggleClass("expanded");
 
-        expandTitles.on("click", function (event) {
+        answerTitles.on("click", function (event) {
             var title = $(event.target),
                 content = $(".admonition-title ~ *", title.parent());
 
@@ -32,7 +32,7 @@
     }
 
     $(document).ready(function () {
-        initToggleexpands();
+        initToggleAnswers();
         initHighlightAnchoredSection();
     });
 }(window.jQuery));
