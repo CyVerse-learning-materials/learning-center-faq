@@ -14,6 +14,11 @@ Goal
 These are frequently asked questions for a variety of CyVerse platforms and
 other services.
 
+.. toctree::
+	:maxdepth: 2
+
+	CyVerse FAQ <self>
+
 ----
 
 
