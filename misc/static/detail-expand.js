@@ -7,9 +7,9 @@
     }
 
     function initToggleexpands() {
-        var expandTitles = $(".admonition-expand .admonition-title");
+        var expandTitles = $(".admonition-expand-to-read-more-to-read-more .admonition-title");
 
-        $(".admonition-title ~ *", ".admonition-expand").toggle();
+        $(".admonition-title ~ *", ".admonition-expand-to-read-more").toggle();
         expandTitles.toggleClass("expanded");
 
         expandTitles.on("click", function (event) {

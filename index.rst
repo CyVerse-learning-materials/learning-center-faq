@@ -144,7 +144,8 @@ listed below.
 
 **External Collaborative Partnership Questions**
 
-   .. admonition:: expand
+.. admonition:: Expand to read more
+  :name: Expand to read more
 
 			- Project Principal Investigator (PI)
 			- Institution

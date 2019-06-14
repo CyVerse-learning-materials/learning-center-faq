@@ -13,11 +13,11 @@ html_theme_options = {
 .rst-content .admonition-note,
 .rst-content .admonition-warning,
 .rst-content .admonition-question,
-.rst-content .admonition-expand {
+.rst-content .admonition-expand-to-read-more {
   margin: 3em 0;
 }
 
-.rst-content .admonition-question .admonition-expand {
+.rst-content .admonition-question .admonition-expand-to-read-more {
   margin-top: 0.5em;
 }
 
@@ -44,24 +44,24 @@ html_theme_options = {
 }
 
 .rst-content .admonition-question p:last-child,
-.rst-content .admonition-expand p:last-child,
+.rst-content .admonition-expand-to-read-more p:last-child,
 .rst-content .admonition-question ul,
-.rst-content .admonition-expand ul {
+.rst-content .admonition-expand-to-read-more ul {
   margin-bottom: 0;
 }
 
-.rst-content .admonition-expand {
+.rst-content .admonition-expand-to-read-more {
   background: #e9f8f5;
   padding: 12px;
   line-height: 24px;
   margin-bottom: 6em;
 }
 
-.rst-content .admonition-expand .admonition-title {
+.rst-content .admonition-expand-to-read-more .admonition-title {
   background: #0F933B;
 }
 
-.rst-content .admonition-expand .admonition-title::before {
+.rst-content .admonition-expand-to-read-more .admonition-title::before {
   content: "\f044";
 }
 
@@ -72,18 +72,18 @@ html_theme_options = {
 /**
  * Toggle visibility of a section
  */
-.rst-content .admonition-expand .admonition-title:after,
-.rst-content .admonition-expand .admonition-title.expanded:after {
+.rst-content .admonition-expand-to-read-more .admonition-title:after,
+.rst-content .admonition-expand-to-read-more .admonition-title.expanded:after {
   font-family: "FontAwesome";
   margin-left: 0.3em;
   cursor: pointer;
 }
 
-.rst-content .admonition-expand .admonition-title:after {
+.rst-content .admonition-expand-to-read-more .admonition-title:after {
   content: "\f13a";
 }
 
-.rst-content .admonition-expand .admonition-title.expanded:after {
+.rst-content .admonition-expand-to-read-more .admonition-title.expanded:after {
   content: "\f139";
 }
 
@@ -96,19 +96,4 @@ html_theme_options = {
   font-style: normal;
   font-size: 0.85em;
   line-height: 1.4em;
-}
-
-.rst-content span.std-term:after,
-.rst-content a.external:after {
-  font-family: "FontAwesome";
-  margin-left: 0.2em;
-  margin-right: 0.2em;
-}
-
-.rst-content span.std-term:after {
-  content: "\f03a";
-}
-
-.rst-content a.external:after {
-  content: "\f152";
 }
