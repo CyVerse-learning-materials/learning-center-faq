@@ -17,20 +17,20 @@ other services.
 ----
 
 
-*CyVerse Discovery Environment*
+**CyVerse Discovery Environment**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----
 
-*CyVerse VICE*
+**CyVerse VICE**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----
 
-*Data Store and Data Services*
+**Data Store and Data Services**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-How do I request a Community Released Data Folder?
+*How do I request a Community Released Data Folder?*
 ``````````````````````````````````````````````````````
 
 Community Released Data folders are available for evolving datasets that
@@ -47,8 +47,8 @@ Then, if you meet the criteria, you can request a folder using this
 |Request for Community Released Data Folders Form|.
 
 
-How do I connect to a shared or public folder with CyberDuck?
-``````````````````````````````````````````````````````````````
+*How do I connect to a shared or public folder with CyberDuck?*
+````````````````````````````````````````````````````````````````
 
 If you follow the default configuration for |Cyberduck| you will automatically
 be connected to your home directory (/iplant/home/$your_user_name). However,
@@ -89,8 +89,8 @@ connect as anonymous in this case, and must supply your own user name.
 See also: |Cyberduck| documentation.
 
 
-How do I make a folder public with iCommands?
-```````````````````````````````````````````````
+*How do I make a folder public with iCommands?*
+`````````````````````````````````````````````````
 
 Although you can share files and folders in the DE and create public links,
 you must use iCommands make them visible to everyone. Permissions are set in
@@ -122,16 +122,16 @@ See also our |iCommands documentation|.
 
 ----
 
-*Data Atmosphere*
+**Atmosphere**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ----
 
-*Other CyVerse Services*
+**Other CyVerse Services**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-How do apply for an external collaborative partnership?
-````````````````````````````````````````````````````````
+*How do I apply for an external collaborative partnership?*
+````````````````````````````````````````````````````````````
 
 External Collaborative Partnerships (ECP) pair members of the CyVerse user
 community with expert staff members to address the computational needs of a
@@ -143,6 +143,8 @@ To help you prepare for the |ECP application|, the questions on the form are
 listed below.
 
 **External Collaborative Partnership Questions**
+
+See the full list of questions below
 
 .. admonition:: Expand to read more
   :name: Expand to read more
