@@ -149,8 +149,6 @@ Contact Education, Outreach, and Training Lead Jason Williams (williams@cshl.edu
 ----
 
 
-----
-
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
