@@ -26,7 +26,7 @@ html_theme_options = {
 }
 
 .rst-content .figure {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 }
 
 .rst-content .admonition-question {
@@ -54,7 +54,7 @@ html_theme_options = {
   background: #e9f8f5;
   padding: 12px;
   line-height: 24px;
-  margin-bottom: 6em;
+  margin-bottom: 0.5em;
 }
 
 .rst-content .admonition-expand-to-read-more .admonition-title {

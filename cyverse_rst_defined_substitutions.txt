@@ -100,6 +100,41 @@
 
    <a href="https://wiki.cyverse.org" target="blank">CyVerse Wiki</a>
 
+.. Comment :: FAQ links
+
+.. |Download Cyberduck| raw:: html
+
+   <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
+
+.. |Request for Community Released Data Folders Form| raw:: html
+
+   <a href="https://user.cyverse.org/forms/7/overview" target="blank">Request for Community Released Data Folders Form</a>
+
+.. |Publishing Data through the Data Commons| raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons" target="blank">Publishing Data through the Data Commons</a>
+
+.. |Preparing Community Released Data Folders| raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DC/Preparing+Community+Released+Data+Folders" target="blank">Preparing Community Released Data Folders</a>
+
+.. |Cyberduck| raw:: html
+
+   <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step1.html" target="blank">Cyberduck</a>
+
+.. |iCommands documentation| raw:: html
+
+   <a href="https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html" target="blank">iCommands documentation</a>
+
+.. |ECP application| raw:: html
+
+   <a href="https://user.cyverse.org/forms/3" target="blank">ECP application</a>
+
+.. |ECP criteria| raw:: html
+
+   <a href="http://www.cyverse.org/criteria-for-assessing-ecs-requests" target="blank">ECP criteria</a>
+
+
 
 .. Comment: images
 
