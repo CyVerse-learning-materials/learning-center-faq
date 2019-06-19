@@ -5,8 +5,57 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Other CyVerse Services FAQ**
-===============================
+**General FAQ Other CyVerse Services**
+========================================
+
+*What apps and workflows are in CyVerse?*
+````````````````````````````````````````````````````````````
+CyVerse has numerous apps and workflows in the Discovery Environment (DE).
+For the list of applications available in the DE, see the |List of Applications|.
+Most apps in the DE have user manuals to give you a jump-start on using the app.
+You also can view the list of tutorials for helping you learn a complicated
+workflow or how to use an app in the DE or Atmosphere.
+
+----
+
+*I need help using CyVerse's tools and resources from within my program*
+```````````````````````````````````````````````````````````````````````````
+
+See the information about our |Science APIs| and, if necessary, contact Support
+using the blue Intercom icon |Intercom| at the bottom right of the platform.
+You also can request community support or an external collaborative partnership,
+or contact Support (support@cyverse.org).
+
+----
+
+
+*I need to make my app available for other people to use*
+```````````````````````````````````````````````````````````````````````````
+You can create a new app interface in the Discovery Environment and share it
+with other users, you also can install the app on VICE or on a VM in the
+Atmosphere cloud. In most cases, providing a Docker container (or a link
+to one) with the application of your choice is all you need to start. See the
+Developer's section of the |CyVerse Learning Center|.
+
+----
+
+*Is CyVerse infrastructure open access/open source?*
+```````````````````````````````````````````````````````````````````````````
+
+Yes, some of CyVerse is open access. Anyone can retrieve publicly available
+datasets. However, you must register for an account to upload data and run
+analyses. All CyVerse code is open source and can be found on |CyVerse GitHub|.
+
+----
+
+*I need a letter of support for my grant proposal that uses CyVerse*
+```````````````````````````````````````````````````````````````````````````
+
+To request a letter of support, email 411@cyverse.org describing the CyVerse
+resources you need (e.g., storage, computing power, expertise for scaling, etc.)
+and if any resulting datasets will be made publicly available.
+
+----
 
 
 *How do I apply for an external collaborative partnership?*
@@ -79,6 +128,25 @@ See the full list of questions below
 				- Will you be leading a workshop(s) or webinar(s) to teach others to use the data or workflow(s)?
 				- Do you have any other communication plans?
 
+----
+
+*I want to use CyVerse in my course*
+```````````````````````````````````````
+DNA Subway (See |DNA Subway Guide|) is especially useful for teaching about gene
+concepts, phylogenetics, DNA barcoding and RNA-Seq.
+
+Atmosphere (See |Atmosphere Guide|)is a good platform for putting together the
+software tools necessary to teach an informatics course or segment of a course.
+
+----
+
+*I would like a CyVerse workshop at my institution*
+``````````````````````````````````````````````````````
+CyVerse has limited funding to support workshop requests. We are especially
+interested in training at underserved institutions (rural, HBCU/Tribal/Hispanic-serving, etc.).
+Contact Education, Outreach, and Training Lead Jason Williams (williams@cshl.edu)
+
+----
 
 
 ----
@@ -136,3 +204,15 @@ Search for an answer:
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/learning-center-faq" target="blank">Github Repo Link</a>
+
+.. |List of Applications|  raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DEapps/List+of+Applications" target="blank">List of Applications</a>
+
+.. |Science APIs|  raw:: html
+
+   <a href="http://www.cyverse.org/science-apis" target="blank">Science APIs</a>
+
+.. |CyVerse GitHub|  raw:: html
+
+   <a href="https://github.com/cyverse" target="blank">CyVerse GitHub</a>

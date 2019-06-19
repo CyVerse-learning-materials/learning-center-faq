@@ -15,11 +15,12 @@ other services.
 	:maxdepth: 2
 
 	CyVerse FAQ <self>
+	General FAQ Other CyVerse Services <other-cyverse-services-faq.rst>
 	Discovery Environment <Discovery-environment-faq.rst>
 	VICE <Cyverse-VICE-faq.rst>
 	Atmosphere <atmosphere-faq.rst>
 	Data Store and data services <data-store-and-services-faq.rst>
-	Other CyVerse services <other-cyverse-services-faq.rst>
+
 
 
 ----

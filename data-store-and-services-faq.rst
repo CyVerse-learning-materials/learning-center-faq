@@ -8,6 +8,35 @@
 **Data Store and Data Services**
 =======================================
 
+*What if I need more space (storage) in the Data Store*
+`````````````````````````````````````````````````````````
+
+Typically, every user has a 100GB allocation in the Data Store. You can
+request more space by completing an |Allocation Increase Form|.
+
+
+----
+
+*How do I publish a large set of public data?*
+``````````````````````````````````````````````````````
+If you need assistance transferring a large dataset to CyVerse, please contact
+CyVerse Support (support@cyverse.org or use the blue Intercom icon |Intercom| at
+the bottom right). For more information on our policies, see
+CyVerse's |Collaboration Policy| and |Data Management Policy|. For more information
+on using data at CyVerse, see the |Data Store Guide|.
+
+----
+
+*What public datasets are in CyVerse?*
+``````````````````````````````````````````````````````
+
+CyVerse provides web access to its public datasets. Because the CyVerse Data
+Store underlies all CyVerse services, the public datasets may also be accessed
+through the Discovery Environment, Atmosphere, the Science APIs and iCommands.
+For more information on using data at CyVerse, see the |Data Store Guide|. 
+
+----
+
 *How do I request a Community Released Data Folder?*
 ``````````````````````````````````````````````````````
 
@@ -153,3 +182,15 @@ Search for an answer:
 .. |Github Repo Link|  raw:: html
 
    <a href="https://github.com/CyVerse-learning-materials/learning-center-faq" target="blank">Github Repo Link</a>
+
+.. |Allocation Increase Form|  raw:: html
+
+   <a href="https://user.cyverse.org/forms/2/overview" target="blank">Allocation Increase Form</a>
+
+.. |Collaboration Policy|  raw:: html
+
+   <a href="http://www.cyverse.org/collaboration-policy" target="blank">Collaboration Policy</a>
+
+.. |Data Management Policy|  raw:: html
+
+   <a href="http://www.cyverse.org/data-management-policy" target="blank">Data Management Policy</a>
