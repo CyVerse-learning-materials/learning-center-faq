@@ -50,8 +50,9 @@ we can easily track) you can also email support@cyverse.org.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Send us a note using Intercom, look for the Intercom icon: |Intercom| and
-we can answer and add it. If you are familiar with GitHub, you can also
-submit an issue, or send us a pull request. See |Improving Existing Documentation in the CyVerse Learning Center|.
+we can answer and add it (see |Github Repo Link|). If you are familiar with
+GitHub, you can also submit an issue, or send us a pull request.
+See |Improving Existing Documentation in the CyVerse Learning Center|.
 
 ----
 
