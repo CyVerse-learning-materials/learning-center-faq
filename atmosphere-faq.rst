@@ -84,41 +84,44 @@ Atmosphere
 **Viewing attached volumes and scratch**
 
 A command that will help see what is mounted & available is ``df``. The example
-below uses the ``-h`` option for storage reporting in more human readable form:
+below uses the ``-h`` option for storage reporting in more human readable form,
+see details Below
 
-.. code-block:: bash
+.. admonition:: Expand to read more
 
-    $ df -h
+    .. code-block:: bash
 
-    Filesystem      Size  Used Avail Use% Mounted on
-    /dev/vda1        20G  2.6G   17G  14% /
-    none            4.0K     0  4.0K   0% /sys/fs/cgroup
-    udev            7.9G   12K  7.9G   1% /dev
-    tmpfs           1.6G  412K  1.6G   1% /run
-    none            5.0M     0  5.0M   0% /run/lock
-    none            7.9G     0  7.9G   0% /run/shm
-    none            100M     0  100M   0% /run/user
-    /dev/vdb        158G   60M  150G   1% /scratch
-    /dev/vdc         64G   52M   61G   1% /vol_c
+        $ df -h
 
-This instance has a 65 GB attached volume mounted at ``/vol_c``  and over 150GB
-available under ``/scratch``.
+        Filesystem      Size  Used Avail Use% Mounted on
+        /dev/vda1        20G  2.6G   17G  14% /
+        none            4.0K     0  4.0K   0% /sys/fs/cgroup
+        udev            7.9G   12K  7.9G   1% /dev
+        tmpfs           1.6G  412K  1.6G   1% /run
+        none            5.0M     0  5.0M   0% /run/lock
+        none            7.9G     0  7.9G   0% /run/shm
+        none            100M     0  100M   0% /run/user
+        /dev/vdb        158G   60M  150G   1% /scratch
+        /dev/vdc         64G   52M   61G   1% /vol_c
 
-One approach to deciding might be:
+    This instance has a 65 GB attached volume mounted at ``/vol_c``  and over 150GB
+    available under ``/scratch``.
 
-"Using ``/scratch``" would fit if my analysis likely to "start" with the large
-dataset (30 fastq of 150 GB). Then, various tools are run that produce new data.
-Once those are complete, only a smaller set of outputs will be retained. In this
-case, we use ``/scratch``  for computing intermediate files and only keep outputs.
+    One approach to deciding might be:
 
-"Attaching a volume" would fit if my analysis likely to begin with a common
-input. Then, an analysis (or many) are performed. Once complete, the results are
-the input to "periodic" analysis or refined over time.
+    "Using ``/scratch``" would fit if my analysis likely to "start" with the large
+    dataset (30 fastq of 150 GB). Then, various tools are run that produce new data.
+    Once those are complete, only a smaller set of outputs will be retained. In this
+    case, we use ``/scratch``  for computing intermediate files and only keep outputs.
 
-In the end, any of the storage options mentioned in this article can be used for
-performing analysis. It is a matter of evaluating what data needs to be retained
-or the performance requirements. The CyVerse Data Store, or a Volume, are the
-most durable options for keeping data.
+    "Attaching a volume" would fit if my analysis likely to begin with a common
+    input. Then, an analysis (or many) are performed. Once complete, the results are
+    the input to "periodic" analysis or refined over time.
+
+    In the end, any of the storage options mentioned in this article can be used for
+    performing analysis. It is a matter of evaluating what data needs to be retained
+    or the performance requirements. The CyVerse Data Store, or a Volume, are the
+    most durable options for keeping data.
 
 ----
 
@@ -138,30 +141,34 @@ when the instance is not active, Atmosphere now mounts this storage onto
 ``/scratch``. You are welcome to use /scratch if you need additional storage for
 active analysis or work.
 
-Example:
+See details below:
 
- .. code-block:: bash
+.. admonition:: Expand to read more
 
-		 	$ df -h
-		Filesystem      Size  Used Avail Use% Mounted on
-		udev             16G     0   16G   0% /dev
-		tmpfs           3.2G  8.7M  3.2G   1% /run
-		/dev/vda1        20G  4.9G   15G  26% /
-		tmpfs            16G     0   16G   0% /dev/shm
-		tmpfs           5.0M     0  5.0M   0% /run/lock
-		tmpfs            16G     0   16G   0% /sys/fs/cgroup
-		/dev/vdb        237G   15G  210G   7% /scratch
-		tmpfs           3.2G     0  3.2G   0% /run/user/0
+    Example:
 
-.. warning::
+     .. code-block:: bash
 
-		**It is important to note is that data under** ``/scratch`` **will not persist when
-		shelving an instance**. Also, instances which are in a suspended or stopped
-		state may ultimately be shelved if the instance is inactive for too long.
-		This consideration should be weighed when choosing where to put data. If a
-		higher durability guarantee is required (or desired) within the instance,
-		then store data in a volume. You can also backup and restore your data to
-		the CyVerse Data Store.
+    		 	$ df -h
+    		Filesystem      Size  Used Avail Use% Mounted on
+    		udev             16G     0   16G   0% /dev
+    		tmpfs           3.2G  8.7M  3.2G   1% /run
+    		/dev/vda1        20G  4.9G   15G  26% /
+    		tmpfs            16G     0   16G   0% /dev/shm
+    		tmpfs           5.0M     0  5.0M   0% /run/lock
+    		tmpfs            16G     0   16G   0% /sys/fs/cgroup
+    		/dev/vdb        237G   15G  210G   7% /scratch
+    		tmpfs           3.2G     0  3.2G   0% /run/user/0
+
+    .. warning::
+
+    		**It is important to note is that data under** ``/scratch`` **will not persist when
+    		shelving an instance**. Also, instances which are in a suspended or stopped
+    		state may ultimately be shelved if the instance is inactive for too long.
+    		This consideration should be weighed when choosing where to put data. If a
+    		higher durability guarantee is required (or desired) within the instance,
+    		then store data in a volume. You can also backup and restore your data to
+    		the CyVerse Data Store.
 
 
 ----
