@@ -46,6 +46,15 @@ we can easily track) you can also email support@cyverse.org.
 
 ----
 
+**Don't see your Question here?**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Send us a note using Intercom, look for the Intercom icon: |Intercom| and
+we can answer and add it. If you are familiar with GitHub, you can also
+submit an issue, or send us a pull request. See |Improving Existing Documentation in the CyVerse Learning Center|.
+
+----
+
 **Fix or improve this documentation**
 
 - On Github: |Github Repo Link|
@@ -92,3 +101,8 @@ we can easily track) you can also email support@cyverse.org.
 .. |YouTube Channel| raw:: html
 
    <a href="https://www.youtube.com/channel/UC-gvdjTz9rq6RovZ57LoDDA" target="blank">YouTube Channel</a>
+
+
+.. |Improving Existing Documentation in the CyVerse Learning Center| raw:: html
+
+   <a href="https://learning.cyverse.org/projects/Documentation-Quickstart/en/latest/#a-improving-existing-documentation-in-the-cyverse-learning-center" target="blank">Improving Existing Documentation in the CyVerse Learning Center</a>
