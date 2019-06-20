@@ -16,10 +16,10 @@ within the instance, where should you put your data?
 
 There are a several instance storage options within an instance, each with different considerations:
 
-    - Instance volume (usually mounted as /vol_c )
-    - Instance scratch directory, /scratch
+    - Instance volume (usually mounted as ``/vol_c`` )
+    - Instance scratch directory, ``/scratch``
     - FUSE-mount your Data Store directory
-    - Home directory,/home
+    - Home directory ``/home``
 
 Each solution will be briefly described below.
 

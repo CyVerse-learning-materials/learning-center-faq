@@ -212,19 +212,8 @@ Discovery Environment: Data (Files and Folders) Questions
 *How do I share data files and folders in the Discovery Environment?*
 ``````````````````````````````````````````````````````````````````````
 
-To share a file or folder with a CyVerse user:
-
-    1. Click the checkbox for the file or folder to share.
-    2. Click shareicon in the row for the item.
-    3. Begin entering the name in the search field and then select the user.
-
-To create a public link to a file (not for folders) with someone who doesn’t have an account:
-
-    1. Click linkicon in the row for the file.
-    2. Copy the link, and click Done.
-    3. Send the link.
-
-See detailed sharing instructions in the |Data Store Guide|.
+To share a file or folder with a CyVerse user see detailed sharing instructions
+in the |Data Store Guide|.
 
 ----
 

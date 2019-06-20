@@ -72,7 +72,7 @@ listed below.
 
 **External Collaborative Partnership Questions**
 
-See the full list of questions below
+See the full list of questions below:
 
 .. admonition:: Expand to read more
   :name: Expand to read more
