@@ -8,7 +8,6 @@
 **VICE FAQ**
 ===================
 
-Coming Soon
 ~~~~~~~~~~~
 
 
@@ -21,6 +20,7 @@ Additional information, help
     Short description and links to any reading materials
 
 Search for an answer:
+`VICE Documentation <a href="https://learning.cyverse.org/projects/vice/en/latest/index.html" target="blank">Replace_with_text</a>
 |CyVerse Learning Center| or
 |CyVerse Wiki|
 
