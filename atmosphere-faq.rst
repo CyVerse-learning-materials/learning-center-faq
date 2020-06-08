@@ -6,7 +6,7 @@
 `Learning Home <http://learning.cyverse.org/>`_
 
 **Refocusing CyVerse Atmosphere FAQ**
-===================
+======================================
 
 *CyVerse is refocusing Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
 
@@ -349,6 +349,8 @@ Search for an answer:
 
    <a href="https://wiki.cyverse.org/wiki/display/DS/Using+FUSE+to+Mount+the+CyVerse+Data+Store" target="blank">FUSE</a>
 
+
 .. _Jetstream: https://jetstream-cloud.org
+
 
 .. _partnership: https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse
