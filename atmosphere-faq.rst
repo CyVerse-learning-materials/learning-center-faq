@@ -41,18 +41,18 @@ You need to transfer your resources off Atmosphere volumes by the following date
 .. list-table::
     :header-rows: 1
 
-* -
-  - U.S. Users
-  - International Users
-* - July 1, 2020
-  - NA
-  - You will no longer be able to create an account.
-* - August 1, 2020
-  - NA
-  - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
-* - September 1, 2020
-  - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
-  - NA
+    * -
+     - U.S. Users
+     - International Users
+    * - July 1, 2020
+      - NA
+      - You will no longer be able to create an account.
+    * - August 1, 2020
+      - NA
+      - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+    * - September 1, 2020
+      - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+      - NA
 
 
 ----
