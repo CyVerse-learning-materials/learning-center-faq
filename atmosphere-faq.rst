@@ -9,7 +9,7 @@
 ===================
 
 **Refocusing CyVerse Atmosphere FAQ**
-======================================
+--------------------------------------
 
 *CyVerse is refocusing Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
 
@@ -133,7 +133,7 @@ Contact us using the chat service within Atmosphere or email `support@cyverse.or
 
 
 **Using Atmosphere FAQ**
-===================
+-------------------------
 
 *Where should I put save data on  my Atmosphere Instance?*
 ````````````````````````````````````````````````````````````
