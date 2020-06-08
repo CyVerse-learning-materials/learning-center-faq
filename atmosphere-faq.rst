@@ -29,7 +29,7 @@ CyVerse will transition Atmosphere from a general purpose cloud computing enviro
 
   .. admonition:: Expand to read more
 
-Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we will now direct resources towards the growing need for cloud-native services. In addition, the NSF recently extended CyVerse’s long-term partnership_ with Jetstream_ through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
+Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we will now direct resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
 
 ----
 
@@ -72,7 +72,7 @@ After January 1, 2021, CyVerse will transfer any unclaimed Atmosphere volumes to
 
   .. admonition:: Expand to read more
 
-CyVerse staff can help with planning your move, migrating your data and tools from Atmosphere to CyVerse’s other services, and advising you on alternative offerings for moving your data and tools; please contact us using the chat service in Atmosphere or email support@cyverse.org.
+CyVerse staff can help with planning your move, migrating your data and tools from Atmosphere to CyVerse’s other services, and advising you on alternative offerings for moving your data and tools; please contact us using the chat service in Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
 
 ----
 
@@ -81,9 +81,9 @@ CyVerse staff can help with planning your move, migrating your data and tools fr
 
   .. admonition:: Expand to read more
 
-The `CyVerse Discovery Environment <https://cyverse.org/discovery-environment>` is a simple web interface for managing data, running analyses, and visualizing results. See `Getting Started with the Discovery Environment <https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/>`.
+The `CyVerse Discovery Environment <https://cyverse.org/discovery-environment>`_ is a simple web interface for managing data, running analyses, and visualizing results. See `Getting Started with the Discovery Environment <https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/>`_.
 
-CyVerse staff will provide assistance for U.S.-based researchers to migrate their cloud images to Jetstream_, which uses CyVerse Atmosphere as its primary interface. The CyVerse Atmosphere image must be owned by the user and must meet Jetstream’s requirements for importing images. CyVerse cannot guarantee 100% success when exporting a virtual disk image from CyVerse Atmosphere to Jetstream Atmosphere. Jetstream staff will not provide support for imported images, and instead recommends images be recreated in their cloud. For more information about Jetstream, see `Getting Started with Jetstream <http://wiki.jetstream-cloud.org/Quick+Start+Guide>`.
+CyVerse staff will provide assistance for U.S.-based researchers to migrate their cloud images to |Jetstream|, which uses CyVerse Atmosphere as its primary interface. The CyVerse Atmosphere image must be owned by the user and must meet Jetstream’s requirements for importing images. CyVerse cannot guarantee 100% success when exporting a virtual disk image from CyVerse Atmosphere to Jetstream Atmosphere. Jetstream staff will not provide support for imported images, and instead recommends images be recreated in their cloud. For more information about Jetstream, see `Getting Started with Jetstream <http://wiki.jetstream-cloud.org/Quick+Start+Guide>`_.
 
 ----
 
@@ -101,7 +101,7 @@ Existing community-created images with an associated DOI will still be visible o
 
   .. admonition:: Expand to read more
 
-Yes. To obtain a copy of the virtual disk of any image you have created/authored,please contact `support@cyverse.org <mailto:support@cyverse.org>` by January 1, 2021. Although CyVerse cannot guarantee 100% success when importing a virtual disk image from Atmosphere, virtual disk images should be compatible with other OpenStack clouds.
+Yes. To obtain a copy of the virtual disk of any image you have created/authored,please contact `support@cyverse.org <mailto:support@cyverse.org>`_ by January 1, 2021. Although CyVerse cannot guarantee 100% success when importing a virtual disk image from Atmosphere, virtual disk images should be compatible with other OpenStack clouds.
 
 ----
 
@@ -110,7 +110,7 @@ Yes. To obtain a copy of the virtual disk of any image you have created/authored
 
   .. admonition:: Expand to read more
 
-If you have a critical need to continue using Atmosphere beyond the closing dates, please contact `support@cyverse.org <mailto:support@cyverse.org>` to discuss your situation before July 1, 2020 for existing international users, or before August 1, 2020 for existing US users.
+If you have a critical need to continue using Atmosphere beyond the closing dates, please contact `support@cyverse.org <mailto:support@cyverse.org>`_ to discuss your situation before July 1, 2020 for existing international users, or before August 1, 2020 for existing US users.
 
 ----
 
@@ -119,7 +119,7 @@ If you have a critical need to continue using Atmosphere beyond the closing date
 
   .. admonition:: Expand to read more
 
-  Contact us using the chat service within Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`.
+  Contact us using the chat service within Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
 
   ----
 
@@ -353,7 +353,6 @@ Search for an answer:
    <a href="https://wiki.cyverse.org/wiki/display/DS/Using+FUSE+to+Mount+the+CyVerse+Data+Store" target="blank">FUSE</a>
 
 
-.. _Jetstream: https://jetstream-cloud.org
+.. |Jetstream|   raw:: html
 
-
-.. _partnership: https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse
+   <a href="https://jetstream-cloud.org" target="blank">Jetstream</a>
