@@ -22,6 +22,7 @@
 
 CyVerse will transition Atmosphere from a general purpose cloud computing environment to one that supports cloud-native development projects. In a cloud-native environment, you can more fully take advantage of the distributed, scalable, flexible nature of the public cloud, which means spending less time worrying about networks, servers, operating systems, etc. and more time on your research.
 
+
 ----
 
 *Why is Atmosphere changing?*
@@ -30,6 +31,7 @@ CyVerse will transition Atmosphere from a general purpose cloud computing enviro
   .. admonition:: Expand to read more
 
 Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we will now direct resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
+
 
 ----
 
@@ -56,6 +58,7 @@ You need to transfer your resources off Atmosphere volumes by the following date
 |                   | Atmosphere by this date.             |                                       |
 +-------------------+--------------------------------------+---------------------------------------+
 
+
 ----
 
 *What will happen if I don’t move my resources off Atmosphere?*
@@ -65,6 +68,7 @@ You need to transfer your resources off Atmosphere volumes by the following date
 
 After January 1, 2021, CyVerse will transfer any unclaimed Atmosphere volumes to the Data Store, when possible. We will archive any remaining unclaimed images with data and delete associated volumes.
 
+
 ----
 
 *How do I get help moving my resources off Atmosphere?*
@@ -73,6 +77,7 @@ After January 1, 2021, CyVerse will transfer any unclaimed Atmosphere volumes to
   .. admonition:: Expand to read more
 
 CyVerse staff can help with planning your move, migrating your data and tools from Atmosphere to CyVerse’s other services, and advising you on alternative offerings for moving your data and tools; please contact us using the chat service in Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
+
 
 ----
 
@@ -85,6 +90,7 @@ The `CyVerse Discovery Environment <https://cyverse.org/discovery-environment>`_
 
 CyVerse staff will provide assistance for U.S.-based researchers to migrate their cloud images to |Jetstream|, which uses CyVerse Atmosphere as its primary interface. The CyVerse Atmosphere image must be owned by the user and must meet Jetstream’s requirements for importing images. CyVerse cannot guarantee 100% success when exporting a virtual disk image from CyVerse Atmosphere to Jetstream Atmosphere. Jetstream staff will not provide support for imported images, and instead recommends images be recreated in their cloud. For more information about Jetstream, see `Getting Started with Jetstream <http://wiki.jetstream-cloud.org/Quick+Start+Guide>`_.
 
+
 ----
 
 *What will happen to my community-created image?*
@@ -93,6 +99,7 @@ CyVerse staff will provide assistance for U.S.-based researchers to migrate thei
   .. admonition:: Expand to read more
 
 Existing community-created images with an associated DOI will still be visible on the CyVerse Atmosphere image catalog after September 1, 2020, but may only be launched by special permission. Other community-created images will be archived and eventually removed from the image catalog.
+
 
 ----
 
@@ -103,6 +110,7 @@ Existing community-created images with an associated DOI will still be visible o
 
 Yes. To obtain a copy of the virtual disk of any image you have created/authored,please contact `support@cyverse.org <mailto:support@cyverse.org>`_ by January 1, 2021. Although CyVerse cannot guarantee 100% success when importing a virtual disk image from Atmosphere, virtual disk images should be compatible with other OpenStack clouds.
 
+
 ----
 
 *What if I still need to use Atmosphere as a computing environment?*
@@ -112,6 +120,7 @@ Yes. To obtain a copy of the virtual disk of any image you have created/authored
 
 If you have a critical need to continue using Atmosphere beyond the closing dates, please contact `support@cyverse.org <mailto:support@cyverse.org>`_ to discuss your situation before July 1, 2020 for existing international users, or before August 1, 2020 for existing US users.
 
+
 ----
 
 *Who can I contact if I have more questions?*
@@ -119,9 +128,10 @@ If you have a critical need to continue using Atmosphere beyond the closing date
 
   .. admonition:: Expand to read more
 
-  Contact us using the chat service within Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
+Contact us using the chat service within Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
 
-  ----
+
+----
 
 
 
