@@ -28,8 +28,6 @@ CyVerse will transition Atmosphere from a general purpose cloud computing enviro
 *Why is Atmosphere changing?*
 ```````````````````````````````
 
-  .. admonition:: Expand to read more
-
 Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we will now direct resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
 
 
@@ -38,25 +36,20 @@ Because containers have become a powerful and preferred way for researchers to c
 *What do I need to do?*
 `````````````````````````
 
-  .. admonition:: Expand to read more
-
 You need to transfer your resources off Atmosphere volumes by the following dates:
-+-------------------+--------------------------------------+---------------------------------------+
-|                   | U.S. Users                           | International Users                   |
-+===================+======================================+=======================================+
-| July 1, 2020      | NA                                   | You will no longer be able            |
-|                   |                                      | to create an account.                 |
-+-------------------+--------------------------------------+---------------------------------------+
-| August 1, 2020    | NA                                   | You will no longer be able to log in. |
-|                   |                                      | All resources should be moved off     |
-|                   |                                      | Atmosphere by this date.              |
-+-------------------+--------------------------------------+---------------------------------------+
-| September 1, 2020 | You will no longer be able to access | NA                                    |
-|                   | Atmosphere as a general purpose      |                                       |
-|                   | computing environment. All           |                                       |
-|                   | resources should be moved off        |                                       |
-|                   | Atmosphere by this date.             |                                       |
-+-------------------+--------------------------------------+---------------------------------------+
+
+* -
+  - U.S. Users
+  - International Users
+* - July 1, 2020
+  - NA
+  - You will no longer be able to create an account.
+* - August 1, 2020
+  - NA
+  - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+* - September 1, 2020
+  - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+  - NA
 
 
 ----
