@@ -5,6 +5,9 @@
 |Home_Icon|_
 `Learning Home <http://learning.cyverse.org/>`_
 
+**Atmosphere FAQ**
+===================
+
 **Refocusing CyVerse Atmosphere FAQ**
 ======================================
 
