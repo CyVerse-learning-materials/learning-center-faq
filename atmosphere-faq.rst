@@ -36,7 +36,7 @@ Because containers have become a powerful and preferred way for researchers to c
 *What do I need to do?*
 `````````````````````````
 
-You need to transfer your resources off Atmosphere volumes by the following dates:
+If you US-based researcher currently using Atmosphere to develop VICE or other DE apps, you may continue to use Atmosphere for this purpose. Otherwise, you will need to transfer your resources off Atmosphere volumes by the following dates:
 
 .. list-table::
     :header-rows: 1
