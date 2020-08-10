@@ -120,6 +120,40 @@ If you have a critical need to continue using Atmosphere beyond the closing date
 
 ----
 
+
+*Can I continue to use my Atmosphere images for a class or workshop?*
+```````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+You can use NSF's Jetstream, which provides the same functionality as Atmosphere for launching images for classes and workshops. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ for assistance with this process if needed. Jetstream also will meet your needs if you want to use something more high-powered, such as Jupyter Hub, for your teaching sessions.
+
+
+----
+
+
+*What can I use Atmosphere for after September 1, 2020?*
+``````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Atmosphere will remain available as a support service for cloud native development projects, such as U.S. users who are developing containers. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ with a request.
+
+
+----
+
+
+*Can I still use Atmosphere for single instances, such as launching a Jupyter Notebook?*
+``````````````````````````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+CyVerse's 'Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>' (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+
+
+----
+
+
 *Who can I contact if I have more questions?*
 ```````````````````````````````````````````````
 
@@ -129,9 +163,6 @@ Contact us using the chat service within Atmosphere or email `support@cyverse.or
 
 
 ----
-
-
-
 **Using Atmosphere FAQ**
 -------------------------
 
