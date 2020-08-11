@@ -148,7 +148,7 @@ Atmosphere will remain available as a support service for cloud native developme
 
   .. admonition:: Expand to read more
 
-CyVerse's 'Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>' (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
 
 
 ----
