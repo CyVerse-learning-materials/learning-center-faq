@@ -15,20 +15,20 @@
 
 ----
 
-*What is changing?*
+*What has changed?*
 `````````````````````
 
   .. admonition:: Expand to read more
 
-CyVerse will transition Atmosphere from a general purpose cloud computing environment to one that supports cloud-native development projects. In a cloud-native environment, you can more fully take advantage of the distributed, scalable, flexible nature of the public cloud, which means spending less time worrying about networks, servers, operating systems, etc. and more time on your research.
+CyVerse has changed Atmosphere from a general purpose cloud computing environment to one that supports cloud-native development projects. In a cloud-native environment, you can more fully take advantage of the distributed, scalable, flexible nature of the public cloud, which means spending less time worrying about networks, servers, operating systems, etc. and more time on your research.
 
 
 ----
 
-*Why is Atmosphere changing?*
+*Why did Atmosphere change?*
 ```````````````````````````````
 
-Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we will now direct resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
+Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we are now directing resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
 
 
 ----
@@ -36,7 +36,7 @@ Because containers have become a powerful and preferred way for researchers to c
 *What do I need to do?*
 `````````````````````````
 
-If you US-based researcher currently using Atmosphere to develop VICE or other DE apps, you may continue to use Atmosphere for this purpose. Otherwise, you will need to transfer your resources off Atmosphere volumes by the following dates:
+If you are a US-based researcher using Atmosphere to develop VICE or other DE apps, you may continue to use Atmosphere for this purpose. Otherwise, users were asked to transfer their resources off Atmosphere volumes by the following dates:
 
 .. list-table::
     :header-rows: 1
@@ -58,7 +58,7 @@ If you US-based researcher currently using Atmosphere to develop VICE or other D
 
 ----
 
-*What will happen if I don’t move my resources off Atmosphere?*
+*What if I did not move my resources off Atmosphere by September 1, 2020?*
 `````````````````````````````````````````````````````````````````
 
   .. admonition:: Expand to read more
@@ -90,12 +90,12 @@ CyVerse staff will provide assistance for U.S.-based researchers to migrate thei
 
 ----
 
-*What will happen to my community-created image?*
+*What has happened to my community-created image?*
 ```````````````````````````````````````````````````
 
   .. admonition:: Expand to read more
 
-Existing community-created images with an associated DOI will still be visible on the CyVerse Atmosphere image catalog after September 1, 2020, but may only be launched by special permission. Other community-created images will be archived and eventually removed from the image catalog.
+Existing community-created images with an associated DOI archive still visible on the CyVerse Atmosphere image catalog after September 1, 2020, but may only be launched by special permission. Other community-created images may be archived and eventually will be removed from the image catalog.
 
 
 ----
@@ -110,12 +110,12 @@ Yes. To obtain a copy of the virtual disk of any image you have created/authored
 
 ----
 
-*What if I still need to use Atmosphere as a computing environment?*
+*What if I still want to use Atmosphere as a computing environment?*
 ``````````````````````````````````````````````````````````````````````
 
   .. admonition:: Expand to read more
 
-If you have a critical need to continue using Atmosphere beyond the closing dates, please contact `support@cyverse.org <mailto:support@cyverse.org>`_ to discuss your situation before July 1, 2020 for existing international users, or before August 1, 2020 for existing US users.
+As stated above, Atmosphere has been refocused to support U.S.-based researchers' cloud-native development projects.
 
 
 ----
