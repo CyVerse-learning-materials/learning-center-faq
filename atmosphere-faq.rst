@@ -11,7 +11,7 @@
 **Refocusing CyVerse Atmosphere FAQ**
 --------------------------------------
 
-*CyVerse is refocusing Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
+*CyVerse has refocused Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
 
 ----
 
