@@ -3,10 +3,170 @@
 |CyVerse_logo|_
 
 |Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+`Learning Home <http://learning.cyverse.org/>`_
 
 **Atmosphere FAQ**
 ===================
+
+**Refocusing CyVerse Atmosphere FAQ**
+--------------------------------------
+
+*CyVerse has refocused Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
+
+----
+
+*What has changed?*
+`````````````````````
+
+  .. admonition:: Expand to read more
+
+CyVerse has changed Atmosphere from a general purpose cloud computing environment to one that supports cloud-native development projects. In a cloud-native environment, you can more fully take advantage of the distributed, scalable, flexible nature of the public cloud, which means spending less time worrying about networks, servers, operating systems, etc. and more time on your research.
+
+
+----
+
+*Why did Atmosphere change?*
+```````````````````````````````
+
+Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we are now directing resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
+
+
+----
+
+*What do I need to do?*
+`````````````````````````
+
+If you are a US-based researcher using Atmosphere to develop VICE or other DE apps, you may continue to use Atmosphere for this purpose. Otherwise, users were asked to transfer their resources off Atmosphere volumes by the following dates:
+
+.. list-table::
+    :header-rows: 1
+
+
+    * - Dates
+      - U.S. Users
+      - International Users
+    * - July 1, 2020
+      - NA
+      - You will no longer be able to create an account.
+    * - August 1, 2020
+      - NA
+      - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+    * - September 1, 2020
+      - You will no longer be able to log in. All resources should be moved off Atmosphere by this date.
+      - NA
+
+
+----
+
+*What if I did not move my resources off Atmosphere by September 1, 2020?*
+`````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+After January 1, 2021, CyVerse will transfer any unclaimed Atmosphere volumes to the Data Store, when possible. We will archive any remaining unclaimed images with data and delete associated volumes.
+
+
+----
+
+*How do I get help moving my resources off Atmosphere?*
+`````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+CyVerse staff can help with planning your move, migrating your data and tools from Atmosphere to CyVerse’s other services, and advising you on alternative offerings for moving your data and tools; please contact us using the chat service in Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
+
+
+----
+
+*What can I use instead of Atmosphere?*
+`````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+The `CyVerse Discovery Environment <https://cyverse.org/discovery-environment>`_ is a simple web interface for managing data, running analyses, and visualizing results. See `Getting Started with the Discovery Environment <https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/>`_.
+
+CyVerse staff will provide assistance for U.S.-based researchers to migrate their cloud images to |Jetstream|, which uses CyVerse Atmosphere as its primary interface. The CyVerse Atmosphere image must be owned by the user and must meet Jetstream’s requirements for importing images. CyVerse cannot guarantee 100% success when exporting a virtual disk image from CyVerse Atmosphere to Jetstream Atmosphere. Jetstream staff will not provide support for imported images, and instead recommends images be recreated in their cloud. For more information about Jetstream, see `Getting Started with Jetstream <http://wiki.jetstream-cloud.org/Quick+Start+Guide>`_.
+
+
+----
+
+*What has happened to my community-created image?*
+```````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Existing community-created images with an associated DOI archive still visible on the CyVerse Atmosphere image catalog after September 1, 2020, but may only be launched by special permission. Other community-created images may be archived and eventually will be removed from the image catalog.
+
+
+----
+
+*Can I get a copy of my image?*
+`````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Yes. To obtain a copy of the virtual disk of any image you have created/authored,please contact `support@cyverse.org <mailto:support@cyverse.org>`_ by January 1, 2021. Although CyVerse cannot guarantee 100% success when importing a virtual disk image from Atmosphere, virtual disk images should be compatible with other OpenStack clouds.
+
+
+----
+
+*What if I still want to use Atmosphere as a computing environment?*
+``````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+As stated above, Atmosphere has been refocused to support U.S.-based researchers' cloud-native development projects.
+
+
+----
+
+
+*Can I continue to use my Atmosphere images for a class or workshop?*
+```````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+You can use NSF's Jetstream, which provides the same functionality as Atmosphere for launching images for classes and workshops. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ for assistance with this process if needed. Jetstream also will meet your needs if you want to use something more high-powered, such as Jupyter Hub, for your teaching sessions.
+
+
+----
+
+
+*What can I use Atmosphere for after September 1, 2020?*
+``````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Atmosphere will remain available as a support service for cloud native development projects, such as U.S. users who are developing containers. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ with a request.
+
+
+----
+
+
+*Can I still use Atmosphere for single instances, such as launching a Jupyter Notebook?*
+``````````````````````````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+
+
+----
+
+
+*Who can I contact if I have more questions?*
+```````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Contact us using the chat service within Atmosphere or email `support@cyverse.org <mailto:support@cyverse.org>`_.
+
+
+----
+
+
+**Using Atmosphere FAQ**
+-------------------------
 
 *Where should I put save data on  my Atmosphere Instance?*
 ````````````````````````````````````````````````````````````
@@ -235,3 +395,8 @@ Additional information, help
 .. |FUSE|  raw:: html
 
    <a href="https://wiki.cyverse.org/wiki/display/DS/Using+FUSE+to+Mount+the+CyVerse+Data+Store" target="blank">FUSE</a>
+
+
+.. |Jetstream|   raw:: html
+
+   <a href="https://jetstream-cloud.org" target="blank">Jetstream</a>
