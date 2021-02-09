@@ -1,6 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Home <http://learning.cyverse.org/>`_
@@ -120,6 +120,40 @@ As stated above, Atmosphere has been refocused to support U.S.-based researchers
 
 ----
 
+
+*Can I continue to use my Atmosphere images for a class or workshop?*
+```````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+You can use NSF's Jetstream, which provides the same functionality as Atmosphere for launching images for classes and workshops. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ for assistance with this process if needed. Jetstream also will meet your needs if you want to use something more high-powered, such as Jupyter Hub, for your teaching sessions.
+
+
+----
+
+
+*What can I use Atmosphere for after September 1, 2020?*
+``````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+Atmosphere will remain available as a support service for cloud native development projects, such as U.S. users who are developing containers. Contact `support@cyverse.org <mailto:support@cyverse.org>`_ with a request.
+
+
+----
+
+
+*Can I still use Atmosphere for single instances, such as launching a Jupyter Notebook?*
+``````````````````````````````````````````````````````````````````````````````````````````
+
+  .. admonition:: Expand to read more
+
+CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+
+
+----
+
+
 *Who can I contact if I have more questions?*
 ```````````````````````````````````````````````
 
@@ -129,7 +163,6 @@ Contact us using the chat service within Atmosphere or email `support@cyverse.or
 
 
 ----
-
 
 
 **Using Atmosphere FAQ**
@@ -306,16 +339,20 @@ Additional information, help
 ..
     Short description and links to any reading materials
 
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
+
 
 ----
 
 **Fix or improve this documentation**
 
-- On Github: |Github Repo Link|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
 
 ----
 

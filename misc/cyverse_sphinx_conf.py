@@ -10,10 +10,10 @@ extensions = [
 ]
 
 project = 'CyVerse Learning Center FAQ'
-copyright = '2019, CyVerse'
+copyright = '2020, CyVerse'
 author = 'Jason Williams'
-version = '1.0'
-release = '1.0'
+version = '2.0'
+version = '2.0'
 
 language = None
 source_parsers = {
@@ -76,3 +76,5 @@ def setup(app):
     app.add_javascript('cyverse.js')
     app.add_javascript('intercom-script-for-learning.js')
     app.add_javascript('detail-expand.js')
+    app.add_stylesheet('question-answer.css')
+    app.add_javascript('question-answer.js')
