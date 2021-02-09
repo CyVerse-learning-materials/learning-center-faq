@@ -5,11 +5,14 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
+
 **Discovery Environment FAQ**
 ===============================
 
+
 Discovery Environment 2.0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 *What is changing in the Discovery Environment?*
 ```````````````````````````````````````````````````
@@ -156,7 +159,7 @@ tool—executable or binary—on which the app or workflow is based.
 
     Learn more about the tools used:
 
-    - 
+    -
 
 ----
 
