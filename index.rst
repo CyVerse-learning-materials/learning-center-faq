@@ -26,9 +26,9 @@
 	:maxdepth: 3
 	:caption: Platforms
 
-  Discovery Environment <Discovery-environment-faq.rst>
-  Data Store <data-store-faq.rst>
-  Atmosphere <atmosphere-faq.rst>
+	Discovery Environment <Discovery-environment-faq.rst>
+	Data Store <data-store-faq.rst>
+	Atmosphere <atmosphere-faq.rst>
 
 
 ----
