@@ -5,22 +5,32 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**CyVerse FAQ**
+**CyVerse Frequently Asked Questions**
 ===================
 
-These are frequently asked questions for a variety of CyVerse platforms and
-other services.
+These are frequently asked questions for our platforms and services.
+
+.. toctree::
+	:maxdepth: 1
+
+	FAQ Home <self>
+
 
 .. toctree::
 	:maxdepth: 2
+	:caption: Services
 
-	CyVerse FAQ <self>
-	General FAQ Other CyVerse Services <other-cyverse-services-faq.rst>
-	Discovery Environment <Discovery-environment-faq.rst>
-	VICE <Cyverse-VICE-faq.rst>
+	Other CyVerse Services <other-cyverse-services-faq.rst>
+
+
+.. toctree::
+	:maxdepth: 2
+	:caption: Platforms
+
+	Discovery Environment <discovery-environment-faq.rst>
+	Visual and Interactive Computing Environment (VICE) <vice-faq.rst>
 	Atmosphere <atmosphere-faq.rst>
-	Data Store and data services <data-store-and-services-faq.rst>
-
+	Data Store <data-store-faq.rst>
 
 
 ----
@@ -29,37 +39,28 @@ other services.
 **Getting help using CyVerse**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The CyVerse team is small, but dedicated to helping you get what you need done.
-There are a number of ways to get help using CyVerse:
+The CyVerse team is small, but dedicated to helping you get what you need done. There are a number of ways to get help using CyVerse:
 
-1. For most questions you can browse or search the |CyVerse Learning Center| or
-|CyVerse Wiki|. We also have several helpful videos (including on popular
-science workflows) on the CyVerse |YouTube Channel|.
-
-2. If you can find the answer you are looking for there, many CyVerse platforms
-feature chat-based support. Look for the Intercom icon: |Intercom|. If you
+  - Search the |CyVerse Learning Center|.
+	- `Review videos <https://cyverse.org/webinars/playlists>`_ by domain experts
+  - Use in-app chat by clicking on this icon: |Intercom|. If you
 catch us outside of working hours (weekdays 9-5PM US Mountain Time Zone), we
 will follow up via email.
-
-3. While Intercom is our preferred support mechanism (it creates a ticket
-we can easily track) you can also email support@cyverse.org.
+  - E-mail `support@cyverse.org <mailto:support@cyverse.org>`_.
 
 ----
 
 **Don't see your Question here?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Send us a note using Intercom, look for the Intercom icon: |Intercom| and
-we can answer and add it (see |Github Repo Link|). If you are familiar with
-GitHub, you can also submit an issue, or send us a pull request.
-See |Improving Existing Documentation in the CyVerse Learning Center|.
+Send us a note using in-app chat by clicking on this icon: |Intercom|. If you are familiar with GitHub, you can submit an issue, or send us a pull request. See |Improving Existing Documentation in the CyVerse Learning Center|.
 
 ----
 
 **Fix or improve this documentation**
 
 - On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `Learning@CyVerse.org <Learning@CyVerse.org>`_
 
 ----
 
