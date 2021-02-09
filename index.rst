@@ -23,23 +23,11 @@
 
 
 .. toctree::
-	:maxdepth: 2
-	:caption: Discovery Environment
+	:maxdepth: 3
+	:caption: Platforms
 
   Discovery Environment <Discovery-environment-faq.rst>
-
-
-.. toctree::
-	:maxdepth: 3
-	:caption: Data Store
-
   Data Store <data-store-faq.rst>
-
-
-.. toctree::
-	:maxdepth: 3
-	:caption: Atmosphere
-
   Atmosphere <atmosphere-faq.rst>
 
 
