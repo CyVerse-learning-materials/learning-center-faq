@@ -12,7 +12,7 @@ These are frequently asked questions for our platforms and services.
 
 .. toctree::
 	:maxdepth: 1
-	:caption: FAQ Home <self>
+	:caption: FAQ Home
 
 	FAQ Home <self>
 
@@ -25,7 +25,6 @@ These are frequently asked questions for our platforms and services.
 
 
 .. toctree::
-  :mindepth: 1
 	:maxdepth: 3
 	:caption: Discovery Environment
 
@@ -53,8 +52,8 @@ These are frequently asked questions for our platforms and services.
 The CyVerse team is small, but dedicated to helping you get what you need done. There are a number of ways to get help using CyVerse:
 
   -  Search the |CyVerse Learning Center|.
-	-  `Review videos <https://cyverse.org/webinars/playlists>`_ by domain experts
-  -  Use in-app chat by clicking on this |Intercom|. If you catch us outside of working hours (weekdays 9-5PM US Mountain Time Zone), we will follow up via email.
+	-  Review `videos <https://cyverse.org/webinars/playlists>`_ by domain experts
+  -  Use in-app chat by clicking on |Intercom|. If you catch us outside of working hours (weekdays 9-5PM US Mountain Time Zone), we will follow up via email.
   -  E-mail `support@cyverse.org <mailto:support@cyverse.org>`_.
 
 ----
@@ -62,7 +61,7 @@ The CyVerse team is small, but dedicated to helping you get what you need done. 
 **Don't see your Question here?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Send us a note using in-app chat by clicking on this icon: |Intercom|. If you are familiar with GitHub, you can submit an issue, or send us a pull request. See |Improving Existing Documentation in the CyVerse Learning Center|.
+Send us a note using in-app chat by clicking on |Intercom|. If you are familiar with GitHub, you can submit an issue, or send us a pull request. See |Improving Existing Documentation in the CyVerse Learning Center|.
 
 ----
 
