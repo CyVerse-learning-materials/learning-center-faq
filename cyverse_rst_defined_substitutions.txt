@@ -140,7 +140,7 @@
 
 .. |CyVerse_logo| image:: ./img/cyverse_learning.png
     :width: 500
-    
+
 .. _CyVerse_logo: http://learning.cyverse.org/
 .. |Home_Icon| image:: ./img/homeicon.png
     :width: 25
