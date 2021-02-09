@@ -8,11 +8,9 @@
 **CyVerse Frequently Asked Questions**
 ===================
 
-These are frequently asked questions for our platforms and services.
 
 .. toctree::
 	:maxdepth: 1
-	:caption: FAQ Home
 
 	FAQ Home <self>
 
@@ -25,16 +23,18 @@ These are frequently asked questions for our platforms and services.
 
 
 .. toctree::
-	:maxdepth: 3
+	:maxdepth: 2
 	:caption: Discovery Environment
 
   Discovery Environment <Discovery-environment-faq.rst>
+
 
 .. toctree::
 	:maxdepth: 3
 	:caption: Data Store
 
   Data Store <data-store-faq.rst>
+
 
 .. toctree::
 	:maxdepth: 3
