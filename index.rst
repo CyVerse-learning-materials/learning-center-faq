@@ -12,6 +12,7 @@ These are frequently asked questions for our platforms and services.
 
 .. toctree::
 	:maxdepth: 1
+	:caption: FAQ Home <self>
 
 	FAQ Home <self>
 
@@ -20,17 +21,23 @@ These are frequently asked questions for our platforms and services.
 	:maxdepth: 2
 	:caption: Services
 
-	Other CyVerse Services <other-cyverse-services-faq.rst>
+	CyVerse Services <other-cyverse-services-faq.rst>
 
 
 .. toctree::
 	:maxdepth: 2
-	:caption: Platforms
+	:caption: Discovery Environment <Discovery-environment-faq.rst>
 
-	Discovery Environment <Discovery-environment-faq.rst>
-	Visual and Interactive Computing Environment (VICE) <vice-faq.rst>
-	Atmosphere <atmosphere-faq.rst>
-	Data Store <data-store-faq.rst>
+
+.. toctree::
+	:maxdepth: 2
+	:caption: Data Store <data-store-faq.rst>
+
+
+.. toctree::
+	:maxdepth: 2
+	:caption: Atmosphere <atmosphere-faq.rst>
+
 
 
 ----
