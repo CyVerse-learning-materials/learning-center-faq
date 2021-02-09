@@ -52,7 +52,7 @@
 The CyVerse team is small, but dedicated to helping you get what you need done. There are a number of ways to get help using CyVerse:
 
   -  Search the |CyVerse Learning Center|.
-	-  Review `videos <https://cyverse.org/webinars/playlists>`_ by domain experts
+  -  Review `videos <https://cyverse.org/webinars/playlists>`_ by domain experts
   -  Use in-app chat by clicking on |Intercom|. If you catch us outside of working hours (weekdays 9-5PM US Mountain Time Zone), we will follow up via email.
   -  E-mail `support@cyverse.org <mailto:support@cyverse.org>`_.
 
