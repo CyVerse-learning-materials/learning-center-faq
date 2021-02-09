@@ -27,7 +27,7 @@ These are frequently asked questions for our platforms and services.
 	:maxdepth: 2
 	:caption: Platforms
 
-	Discovery Environment <discovery-environment-faq.rst>
+	Discovery Environment <Discovery-environment-faq.rst>
 	Visual and Interactive Computing Environment (VICE) <vice-faq.rst>
 	Atmosphere <atmosphere-faq.rst>
 	Data Store <data-store-faq.rst>
