@@ -10,8 +10,8 @@ Discovery Environment FAQ
 *************************
 
 
-Discovery Environment 2.0 Launch
-#################################
+Discovery Environment 2.0 Release
+###################################
 
 
 *What is changing in the Discovery Environment?*
