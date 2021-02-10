@@ -5,20 +5,29 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Data Store and Data Services**
-=======================================
+*****************************
+Data Store and Data Services
+*****************************
+
+###############
+Managing data
+###############
 
 *What if I need more space (storage) in the Data Store*
-`````````````````````````````````````````````````````````
+========================================================
 
 Typically, every user has a 100GB allocation in the Data Store. You can
 request more space by completing an |Allocation Increase Form|.
 
-
 ----
 
+###############
+Sharing data
+###############
+
 *How do I publish a large set of public data?*
-``````````````````````````````````````````````````````
+==============================================================
+
 If you need assistance transferring a large dataset to CyVerse, please contact
 CyVerse Support (support@cyverse.org or use the blue Intercom icon |Intercom| at
 the bottom right). For more information on our policies, see
@@ -28,7 +37,7 @@ on using data at CyVerse, see the |Data Store Guide|.
 ----
 
 *What public datasets are in CyVerse?*
-``````````````````````````````````````````````````````
+========================================================
 
 CyVerse provides web access to its public datasets. Because the CyVerse Data
 Store underlies all CyVerse services, the public datasets may also be accessed
@@ -38,7 +47,7 @@ For more information on using data at CyVerse, see the |Data Store Guide|.
 ----
 
 *How do I request a Community Released Data Folder?*
-``````````````````````````````````````````````````````
+========================================================
 
 Community Released Data folders are available for evolving datasets that
 individuals or communities want to make available as quickly as possible for
@@ -56,7 +65,7 @@ Then, if you meet the criteria, you can request a folder using this
 ----
 
 *How do I connect to a shared or public folder with CyberDuck?*
-````````````````````````````````````````````````````````````````
+====================================================================================
 
 If you follow the default configuration for |Cyberduck| you will automatically
 be connected to your home directory (/iplant/home/$your_user_name). However,
@@ -103,7 +112,7 @@ To do this read the instructions below:
 ----
 
 *How do I make a folder public with iCommands?*
-`````````````````````````````````````````````````
+========================================================
 
 Although you can share files and folders in the DE and create public links,
 you must use iCommands make them visible to everyone. Permissions are set in
@@ -131,15 +140,6 @@ instructions below
          ichmod -r null anonymous /iplant/home/shared/myfolder
 
     See also our |iCommands documentation|.
-
-
-----
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials
 
 
 
