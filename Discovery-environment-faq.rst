@@ -10,8 +10,8 @@ Discovery Environment FAQ
 *************************
 
 
-Discovery Environment 2.0
-#########################
+Discovery Environment 2.0 Launch
+#################################
 
 
 *What is changing in the Discovery Environment?*
@@ -158,7 +158,7 @@ information for CyVerse staff in case you cannot resolve the problem yourself.
 ----
 
 *How do I get help with a tool (app) or workflow?*
-`````````````````````````````````````````````````````
+====================================================
 
 The steps to get help depend on whether you’re a novice or an expert with the
 tool—executable or binary—on which the app or workflow is based.
