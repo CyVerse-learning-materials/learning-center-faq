@@ -5,18 +5,20 @@
 |Home_Icon|_
 `Learning Home <http://learning.cyverse.org/>`_
 
-**Atmosphere FAQ**
-===================
+***************
+Atmosphere FAQ
+***************
 
-**Refocusing CyVerse Atmosphere FAQ**
---------------------------------------
+##################################
+Refocusing CyVerse Atmosphere FAQ
+##################################
 
 *CyVerse has refocused Atmosphere to better serve the growing need for container and cloud native development services. Read on for what this change means to you.*
 
 ----
 
 *What has changed?*
-`````````````````````
+=====================
 
   .. admonition:: Expand to read more
 
@@ -26,7 +28,7 @@ CyVerse has changed Atmosphere from a general purpose cloud computing environmen
 ----
 
 *Why did Atmosphere change?*
-```````````````````````````````
+=============================
 
 Because containers have become a powerful and preferred way for researchers to create, execute, and share analyses, largely replacing the capabilities of Atmosphere’s virtual machines, we are now directing resources towards the growing need for cloud-native services. In addition, `the NSF recently extended CyVerse’s long-term partnership <https://cyverse.org/national-science-foundation-10M-award-to-jetstream-2-brings-new-opportunities-for-cyverse>`_ with |Jetstream| through 2025 to provide similar capabilities and interfaces with significantly larger CPU, GPU, and storage infrastructure, presenting an exciting option for our U.S. users.
 
@@ -34,7 +36,7 @@ Because containers have become a powerful and preferred way for researchers to c
 ----
 
 *What do I need to do?*
-`````````````````````````
+========================
 
 If you are a US-based researcher using Atmosphere to develop VICE or other DE apps, you may continue to use Atmosphere for this purpose. Otherwise, users were asked to transfer their resources off Atmosphere volumes by the following dates:
 
@@ -59,7 +61,7 @@ If you are a US-based researcher using Atmosphere to develop VICE or other DE ap
 ----
 
 *What if I did not move my resources off Atmosphere by September 1, 2020?*
-`````````````````````````````````````````````````````````````````
+===========================================================================
 
   .. admonition:: Expand to read more
 
@@ -69,7 +71,7 @@ After January 1, 2021, CyVerse will transfer any unclaimed Atmosphere volumes to
 ----
 
 *How do I get help moving my resources off Atmosphere?*
-`````````````````````````````````````````````````````````
+========================================================
 
   .. admonition:: Expand to read more
 
@@ -79,7 +81,7 @@ CyVerse staff can help with planning your move, migrating your data and tools fr
 ----
 
 *What can I use instead of Atmosphere?*
-`````````````````````````````````````````
+========================================
 
   .. admonition:: Expand to read more
 
@@ -91,7 +93,7 @@ CyVerse staff will provide assistance for U.S.-based researchers to migrate thei
 ----
 
 *What has happened to my community-created image?*
-```````````````````````````````````````````````````
+===================================================
 
   .. admonition:: Expand to read more
 
@@ -101,7 +103,7 @@ Existing community-created images with an associated DOI archive still visible o
 ----
 
 *Can I get a copy of my image?*
-`````````````````````````````````
+=================================
 
   .. admonition:: Expand to read more
 
@@ -111,7 +113,7 @@ Yes. To obtain a copy of the virtual disk of any image you have created/authored
 ----
 
 *What if I still want to use Atmosphere as a computing environment?*
-``````````````````````````````````````````````````````````````````````
+=====================================================================
 
   .. admonition:: Expand to read more
 
@@ -122,7 +124,7 @@ As stated above, Atmosphere has been refocused to support U.S.-based researchers
 
 
 *Can I continue to use my Atmosphere images for a class or workshop?*
-```````````````````````````````````````````````````````````````````````
+======================================================================
 
   .. admonition:: Expand to read more
 
@@ -133,7 +135,7 @@ You can use NSF's Jetstream, which provides the same functionality as Atmosphere
 
 
 *What can I use Atmosphere for after September 1, 2020?*
-``````````````````````````````````````````````````````````
+==========================================================
 
   .. admonition:: Expand to read more
 
@@ -144,7 +146,7 @@ Atmosphere will remain available as a support service for cloud native developme
 
 
 *Can I still use Atmosphere for single instances, such as launching a Jupyter Notebook?*
-``````````````````````````````````````````````````````````````````````````````````````````
+==================================================================================================
 
   .. admonition:: Expand to read more
 
@@ -155,7 +157,7 @@ CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.or
 
 
 *Who can I contact if I have more questions?*
-```````````````````````````````````````````````
+==============================================
 
   .. admonition:: Expand to read more
 
@@ -165,11 +167,13 @@ Contact us using the chat service within Atmosphere or email `support@cyverse.or
 ----
 
 
-**Using Atmosphere FAQ**
--------------------------
+#######################
+Using Atmosphere FAQ
+#######################
 
 *Where should I put save data on  my Atmosphere Instance?*
-````````````````````````````````````````````````````````````
+============================================================
+
 When doing work in Atmosphere, you will likely bring data into instances from
 the CyVerse Data Store, your local system, or another data source. However,
 within the instance, where should you put your data?
@@ -286,7 +290,7 @@ see details Below
 ----
 
 *How do I manage disk space on my Atmosphere Instance?*
-````````````````````````````````````````````````````````````
+=========================================================
 
 A recent change in Atmosphere "relocated" ephemeral storage mounted within the
 instance's filesystem.
@@ -329,15 +333,6 @@ See details below:
     		higher durability guarantee is required (or desired) within the instance,
     		then store data in a volume. You can also backup and restore your data to
     		the CyVerse Data Store.
-
-
-----
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials
 
 
 
