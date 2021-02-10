@@ -15,37 +15,42 @@ Discovery Environment 2.0
 
 
 *What is changing in the Discovery Environment?*
-```````````````````````````````````````````````````
+=================================================
 
 The Discovery Environment 2.0 (DE 2.0) is the same great workbench for data, apps and analyses, but with a new look (interface) so that using CyVerse is even better! The new DE is easier to navigate, to find new features, and to access learning materials and other important information.
 
 ----
 
 *What will happen to my data, analyses, results, collaborators, public datasets, etc.?*
+==============================================================================================
 
 No changes have been made that affect your data, analyses, results, etc. All your existing data in the Data Store and Data Commons and your apps and analyses can be accessed through the DE 2.0. Any changes you make going forward using either the DE 2.0 or the old DE will be reflected in both versions.
 
 ----
 
 *When will the DE 2.0 be available?*
+=================================================
 
 The DE 2.0 is available now! Poke around to see what’s new and take a tour: https://sonora.cyverse.org/help
 
 ----
 
 *Can I still use the old DE?*
+=================================================
 
 Yes, the old DE is still available to use until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance. To access the old DE, click here: https://de.cyverse.org
 
 ----
 
 *Why do I have to log in again to use VICE in the new DE?*
+===========================================================
 
 The prompt to login again for VICE apps is a temporary step until we upgrade VICE apps to use the same authentication service as now used in the DE 2.0.
 
 ----
 
 *What do I have to do to access the DE 2.0?*
+=================================================
 
 For existing users, use your account credentials to:
 - Launch the DE 2.0 from its web address: de2.cyverse.org
@@ -57,6 +62,7 @@ For new users:
 ----
 
 *Where can I find more information about DE 2.0?*
+===================================================
 
 - Take the product tour in the DE 2.0
 - View a short |DE 2.0 Webinar| demonstration
@@ -65,6 +71,7 @@ For new users:
 ----
 
 *What if I have problems finding my data, analyses, folders, etc.?*
+======================================================================
 
 - Take the DE 2.0 product tour which explains each of the icons on the DE 2.0 dashboard
 - Use the help icon in the upper right corner
@@ -73,16 +80,17 @@ For new users:
 ----
 
 *What will happen to my DE bookmark?*
+=================================================
 
 Your existing bookmark to the old DE has not changed, but will update to the DE 2.0 when the old DE is sunsetted in Summer 2021. Please bookmark the DE 2.0 web address: https://de2.cyverse.org
 
 
 
-Discovery Environment: Analyses Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Analyses Questions
+#########################
 
 *Why has my job failed or been running forever?*
-```````````````````````````````````````````````````
+=================================================
 
 The following recommendations can help you determine what went wrong and collect
 information for CyVerse staff in case you cannot resolve the problem yourself.
