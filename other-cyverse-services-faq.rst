@@ -5,72 +5,86 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**General FAQ Other CyVerse Services**
-========================================
+*********************
+CyVerse Services FAQ
+*********************
 
-*What apps and workflows are in CyVerse?*
-````````````````````````````````````````````````````````````
-CyVerse has numerous apps and workflows in the Discovery Environment (DE).
-For the list of applications available in the DE, see the |List of Applications|.
-Most apps in the DE have user manuals to give you a jump-start on using the app.
-You also can view the list of tutorials for helping you learn a complicated
-workflow or how to use an app in the DE or Atmosphere.
-
-----
-
-*I need help using CyVerse's tools and resources from within my program*
-```````````````````````````````````````````````````````````````````````````
-
-See the information about our |Science APIs| and, if necessary, contact Support
-using the blue Intercom icon |Intercom| at the bottom right of the platform.
-You also can request community support or an external collaborative partnership,
-or contact Support (support@cyverse.org).
-
-----
-
-
-*I need to make my app available for other people to use*
-```````````````````````````````````````````````````````````````````````````
-You can create a new app interface in the Discovery Environment and share it
-with other users, you also can install the app on VICE or on a VM in the
-Atmosphere cloud. In most cases, providing a Docker container (or a link
-to one) with the application of your choice is all you need to start. See the
-Developer's section of the |CyVerse Learning Center|.
-
-----
+##################
+About CyVerse FAQ
+##################
 
 *Is CyVerse infrastructure open access/open source?*
-```````````````````````````````````````````````````````````````````````````
+======================================================
 
-Yes, some of CyVerse is open access. Anyone can retrieve publicly available
-datasets. However, you must register for an account to upload data and run
-analyses. All CyVerse code is open source and can be found on |CyVerse GitHub|.
+Yes, some of CyVerse is open access. Anyone can access (browse and retrieve) publicly available datasets. However, you must register for an account to upload data and run
+analyses.
+
+All CyVerse code is open source and can be found on |CyVerse GitHub|. Read our |Open Source Policy|.
+
+----
+##########
+Data FAQ
+##########
+
+#############
+Analysis FAQ
+#############
+
+*What apps and workflows are in CyVerse?*
+====================================================
+
+CyVerse has hundreds of apps and workflows in the Discovery Environment (DE).
+For the list of applications available in the DE, see the |List of Applications|.
+Most apps in the DE have user manuals to give you a jump-start on using the app.
+You also can browse the list of tutorials to find help to learn a complicated
+workflow or how to use an app in the DE or VICE.
+
+*How can I make my app available for other people to use?*
+=================================================================
+
+You can create a new app interface in the Discovery Environment and share it
+with other users and you also can install the app on VICE. In most cases, providing a Docker container (or a link to one) with the application of your choice is all you need to start. See the Developer's section of the |CyVerse Learning Center|.
+
+
+#########################
+Bring Your Own (BYO) FAQ
+#########################
+
+*How can I use CyVerse's tools and resources from within my program/app?*
+==============================================================================
+
+See the information about our |Science APIs|; you can also contact Support
+using the blue chat icon |Intercom| at the bottom right of the platform.
+For projects requiring more extensive support, you can request community support or an external collaborative partnership (see Collaboration FAQ below).
+
+
+###################
+Collaboration FAQ
+###################
+
+*How can I get a letter of collaboration for my grant proposal that uses CyVerse?*
+==================================================================================
+
+*To request a letter of collaboration, email informaticians@cyverse.org with the following information:*
+- the CyVerse resources your project will use (e.g., storage, computing power, expertise for scaling, etc.) and indicate if any resulting datasets will be made publicly available in CyVerse
+- the name of the PI, proposal title, funding agency, and date you need the letter
+- if there is a template that must be used, please attach to your email
 
 ----
 
-*I need a letter of support for my grant proposal that uses CyVerse*
-```````````````````````````````````````````````````````````````````````````
+*What is an external collaborative partnership and how do I apply?*
+====================================================================
 
-To request a letter of support, email 411@cyverse.org describing the CyVerse
-resources you need (e.g., storage, computing power, expertise for scaling, etc.)
-and if any resulting datasets will be made publicly available.
-
-----
-
-
-*How do I apply for an external collaborative partnership?*
-````````````````````````````````````````````````````````````
-
-External Collaborative Partnerships (ECP) pair members of the CyVerse user
-community with expert staff members to address the computational needs of a
+External Collaborative Partnerships (ECP) pair member(s) of the CyVerse user
+community with expert CyVerse staff to address the computational needs of a
 scientific project. Requests are reviewed on an ongoing basis.
 
-The criteria by which ECPs are reviewed are available here: |ECP criteria|.
+The criteria CyVerse uses to review ECP requests are available here: |ECP criteria|.
 
-To help you prepare for the |ECP application|, the questions on the form are
+To help you complete the |ECP application|, the questions on the form are
 listed below.
 
-**External Collaborative Partnership Questions**
+**External Collaborative Partnership Application Questions**
 
 See the full list of questions below:
 
@@ -79,14 +93,14 @@ See the full list of questions below:
 
 			- Project Principal Investigator (PI)
 			- Institution
-			- Collaborating Personnel
+			- Collaborating personnel
 
-				- Provide a detailed list of students, technicians, infromaticians and/or
+				- Provide a detailed list of students, technicians, informaticians and/or
 				  developers who will be able to assist with project design and
 				  implementation, their respective computational science skill sets
 				  (e.g., web design, Python, GWAS, etc.), and their specific time
 				  commitments during the project (e.g., 1.5 hrs/day).
-			- Previous Interactions with CyVerse
+			- Previous interactions with CyVerse
 			- Funding sources
 			- Project title
 			- Project description
@@ -99,63 +113,52 @@ See the full list of questions below:
 				  enable science for scientists beyond your immediate network of
 				  collaborators.
 
-			- Technical Description
+			- Technical description
 
 				- Provide a technical description of your project. What is the computational
-				  need that is to be addressed with assistance from CyVerse? Identify
+				  need that Will be addressed with assistance from CyVerse? Identify
 				  specific potential deliverables to be implemented using CyVerse
-				  technologies, such as the Discovery Environment, Atmosphere, APIs, or
-				  Data Store.
-			- Timeline and Milestones for Completing the Project
+				  technologies, such as the Discovery Environment, Atmosphere, APIs,
+				  Data Store, Data Commons, etc.
+			- Timeline and milestones for completing the project
 
-				- provide a timeline of specific monthly milestones (deliverables). Projects
+				- Provide a timeline of specific monthly milestones (deliverables). Projects
 				  of short duration (~2 months) should provide weekly milestones.
 
-
-			- Scientific and Technical Impact
+			- Scientific and technical impact
 
 				- Describe how the success of this collaboration will benefit your project
 				  and the broader community.
 
-			- Communication and Sharing Plan
+			- Communication and sharing plan
 
-				- Will you be making the data and/or workflows publicly available through CyVerse?
-				- Blogging and/or tweeting about the work?
-				- Presenting at institution or professional conference?
+				- Will the data and/or workflows be made publicly available through CyVerse?
+				- Will you be blogging and/or tweeting about the work?
 				- Will you be giving a talk about your work at your institution or at a professional conference?
-				- Writing a news article for the CyVerse website?
+				- Will you be writing a news article for the CyVerse website or newsletter?
 				- Will you be preparing a tutorial that uses the datasets or workflows?
 				- Will you be leading a workshop(s) or webinar(s) to teach others to use the data or workflow(s)?
-				- Do you have any other communication plans?
+				- Describe any other plans to communicate how your project will use CyVerse
+
+
+####################
+Training FAQ
+####################
+
+*How can I use CyVerse in my course?*
+=====================================
+
+DNA Subway (See |DNA Subway Guide|) is especially useful for teaching gene
+concepts, phylogenetics, DNA barcoding and RNA-Seq. With a friendly user interface and based on the analogy of multiple subway stops and lines, student learn the basics of computational genomics workflows.
+
+Using containers in DE/VICE is also a great teaching resource. By loading a container with the software tools, datasets, and analysis parameters necessary to run an analysis, containers help overcome many technological hurdles for both learning and teaching informatics.
 
 ----
 
-*I want to use CyVerse in my course*
-```````````````````````````````````````
-DNA Subway (See |DNA Subway Guide|) is especially useful for teaching about gene
-concepts, phylogenetics, DNA barcoding and RNA-Seq.
-
-Atmosphere (See |Atmosphere Guide|)is a good platform for putting together the
-software tools necessary to teach an informatics course or segment of a course.
-
-----
-
-*I would like a CyVerse workshop at my institution*
-``````````````````````````````````````````````````````
-CyVerse has limited funding to support workshop requests. We are especially
-interested in training at underserved institutions (rural, HBCU/Tribal/Hispanic-serving, etc.).
-Contact Education, Outreach, and Training Lead Jason Williams (williams@cshl.edu)
-
-----
-
-
-Additional information, help
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-..
-    Short description and links to any reading materials
-
-
+*Can CyVerse give a workshop at my institution?*
+=====================================================
+Funding to support workshop requests is very limited, with priority for
+trainings at underserved institutions (rural, HBCU/Tribal/Hispanic-serving, etc.). Contact Education, Outreach, and Training Lead Jason Williams (williams@cshl.edu)
 
 ----
 
@@ -218,3 +221,7 @@ Additional information, help
 .. |CyVerse GitHub|  raw:: html
 
    <a href="https://github.com/cyverse" target="blank">CyVerse GitHub</a>
+
+.. |Open Source Policy| raw:: html
+
+   <a href="https://cyverse.org/policies/open-source" target="blank">Open Source Policy</a>
