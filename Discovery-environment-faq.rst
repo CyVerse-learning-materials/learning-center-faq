@@ -9,7 +9,7 @@
 Discovery Environment FAQ
 *************************
 
-
+###################################
 Discovery Environment 2.0 Release
 ###################################
 
@@ -85,7 +85,7 @@ For new users:
 Your existing bookmark to the old DE has not changed, but will update to the DE 2.0 when the old DE is sunsetted in Summer 2021. Please bookmark the DE 2.0 web address: https://de2.cyverse.org
 
 
-
+#########################
 Analyses Questions
 #########################
 
