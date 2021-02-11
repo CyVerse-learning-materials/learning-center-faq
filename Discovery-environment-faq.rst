@@ -52,10 +52,11 @@ The prompt to login again for VICE apps is a temporary step until we upgrade VIC
 *What do I have to do to access the DE 2.0?*
 =================================================
 
-For existing users, use your account credentials to:
+*For existing users, use your account credentials to:*
 - Launch the DE 2.0 from its web address: de2.cyverse.org
 - Launch the DE 2.0 from our website homepage (top navigation Launch menu)
-For new users:
+
+*For new users:*
 - Sign up for an account at CyVerse; you get access to the DE 2.0 and 2 GB of storage with your account
 - Next, login to CyVerse to validate your new account and start using DE 2.0
 
