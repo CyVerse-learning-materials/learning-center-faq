@@ -166,9 +166,21 @@ tool—executable or binary—on which the app or workflow is based.
 
 *If you are a novice*:
 
-    Learn more about the tools used:
+    # Learn more about the tools used:
 
-    -
+    - Search the internet for the publication describing the tool and any related documentation.
+
+    - Make sure you understand what the tool is designed to do, what inputs it can accept and in which format, and how to set any parameters.
+
+    # Search the internet for informative sites in your domain. For example, [SEQanswers](http://seqanswers.com) is the go-to online forum for the next-generation sequencing community.
+
+    # Talk with someone at your institution who is more experienced with the tool.
+
+    # Try to use the app in the Discovery Environment. Click ![infoicon](docs/images/InfoIcon.jpg) next to the app name to view the app manual and its sample test input files and expected outputs.
+
+*If you are experienced with the tool or workflow:*
+
+    If you are experienced with the tool or workflow and need advice for how to work with very large-scale data or a complex workflow, you may request community support or [Extended Collaborative Support](http://www.cyverse.org/collaborate).
 
 ----
 
