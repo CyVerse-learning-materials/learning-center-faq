@@ -17,28 +17,41 @@ Discovery Environment 2.0 Release
 *What is changing in the Discovery Environment?*
 =================================================
 
-The Discovery Environment 2.0 (DE 2.0) is the same great workbench for data, apps and analyses, but with a new look (interface) so that using CyVerse is even better! The new DE is easier to navigate, to find new features, and to access learning materials and other important information.
+The Discovery Environment 2.0 (DE 2.0) is the same great workbench for data, apps and analyses, but with a new look (interface) so that using CyVerse is even better! The new DE is faster and easier to navigate, has new and upgraded features, and provides a semi-customizable dashboard. You can use the DE 2.0 right now for:
+- Data: upload, create new files and folders, share with collaborators
+- Analyses: run and share analyses and workflows
+- Notifications: get status notifications of your uploads, jobs, results, etc.
+
+Important Note: Some existing DE functions won't be fully operational in the DE 2.0 until Summer 2021; please see the question "*Can I still use the old DE?*" for specific operations/tasks for which you must continue to use the old DE.
 
 ----
 
 *What will happen to my data, analyses, results, collaborators, public datasets, etc.?*
-==============================================================================================
+=========================================================================================
 
 No changes have been made that affect your data, analyses, results, etc. All your existing data in the Data Store and Data Commons and your apps and analyses can be accessed through the DE 2.0. Any changes you make going forward using either the DE 2.0 or the old DE will be reflected in both versions.
 
 ----
 
 *When will the DE 2.0 be available?*
-=================================================
+======================================
 
 The DE 2.0 is available now! Poke around to see what’s new and take a tour: https://sonora.cyverse.org/help
 
 ----
 
 *Can I still use the old DE?*
-=================================================
+==============================
 
-Yes, the old DE is still available to use until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance. To access the old DE, click here: https://de.cyverse.org
+- Yes, the old DE is still available to use until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance.
+- Please use the old DE for some functions that are not yet fully operational in DE 2.0, such as:
+- - Apps: integrating new apps, editing, copying, and publishing
+- - Communities: adminstrating, managing, and browsing
+- - Teams: request to join a team and notifications related to your request
+- - Notifications: some notifications, some webhooks, and some keyboard shortcuts are not yet available
+- - Requesting access to Visual Interactive Computing Environment (VICE) apps
+- - Moving files and folders
+- To access the old DE: https://de.cyverse.org
 
 ----
 
@@ -50,7 +63,7 @@ The prompt to login again for VICE apps is a temporary step until we upgrade VIC
 ----
 
 *What do I have to do to access the DE 2.0?*
-=================================================
+=============================================
 
 *For existing users, use your account credentials to:*
 - Launch the DE 2.0 from its web address: de2.cyverse.org
@@ -81,7 +94,7 @@ The prompt to login again for VICE apps is a temporary step until we upgrade VIC
 ----
 
 *What will happen to my DE bookmark?*
-=================================================
+=======================================
 
 Your existing bookmark to the old DE has not changed, but will update to the DE 2.0 when the old DE is sunsetted in Summer 2021. Please bookmark the DE 2.0 web address: https://de2.cyverse.org
 
@@ -232,9 +245,9 @@ You can create a file that contains a list of up to 16 files to use as input for
 You can avoid confusion by finding the output folder in your Data list and `renaming <https://wiki.cyverse.org/wiki/display/DEmanual/Renaming+a+Data+File+or+Folder>`_ each output file with a unique name. After renaming the output files, you can then use them together in a step of the analysis workflow.
 
 
-#########################
+#####################
 Data Questions
-#########################
+#####################
 
 *How do I share data files and folders in the Discovery Environment?*
 ======================================================================
@@ -296,9 +309,9 @@ No. Do not use spaces or special characters in file or folder names as they can 
 You can view bam, vcf, and gff genome files you own in the genome browsers at Ensembl, UCSC, IGV, GBrowse, and jbrowse, and view Fasta genome files in CoGe. Learn more about viewing genome files in `a genome browser <https://wiki.cyverse.org/wiki/display/DEmanual/Viewing+Genome+Files+in+a+Genome+Browser>`_ or in  `CoGe <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Viewing+Genome+Files+in+CoGe>`_.
 
 
-###################################
+###########################
 App Questions
-###################################
+###########################
 
 
 *How do I share an app in the Discovery Environment?*
