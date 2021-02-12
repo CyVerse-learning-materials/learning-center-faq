@@ -5,9 +5,9 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-*****************************
-Data Store and Data Services
-*****************************
+******************
+Data Store FAQ
+******************
 
 ###############
 Managing data
