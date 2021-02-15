@@ -18,11 +18,12 @@ Discovery Environment 2.0 Release
 =================================================
 
 The Discovery Environment 2.0 (DE 2.0) is the same great workbench for data, apps and analyses, but with a new look (interface) so that using CyVerse is even better! The new DE is faster and easier to navigate, has new and upgraded features, and provides a semi-customizable dashboard. You can use the DE 2.0 right now for:
+
 - Data: upload, create new files and folders, share with collaborators
 - Analyses: run and share analyses and workflows
 - Notifications: get status notifications of your uploads, jobs, results, etc.
 
-Important Note: Some existing DE functions won't be fully operational in the DE 2.0 until Summer 2021; please see the question "*Can I still use the old DE?*" for specific operations/tasks for which you must continue to use the old DE.
+*Important Note:* Some existing DE functions won't be fully operational in the DE 2.0 until Summer 2021; please see the question "*Can I still use the old DE?*" for specific operations/tasks for which you must continue to use the old DE.
 
 ----
 
@@ -43,7 +44,8 @@ The DE 2.0 is available now! Poke around to see what’s new and take a tour: ht
 *Can I still use the old DE?*
 ==============================
 
-- Yes, the old DE is still available to use until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance.
+Yes, you can continue to use the old DE until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance.
+
 - Please use the old DE for some functions that are not yet fully operational in DE 2.0, such as:
 - - Apps: integrating new apps, editing, copying, and publishing
 - - Communities: adminstrating, managing, and browsing
@@ -175,7 +177,7 @@ information for CyVerse staff in case you cannot resolve the problem yourself.
 ====================================================
 
 The steps to get help depend on whether you’re a novice or an expert with the
-tool—executable or binary—on which the app or workflow is based.
+tool (executable or binary) on which the app or workflow is based.
 
 **If you are a novice:**
 
@@ -200,14 +202,14 @@ tool—executable or binary—on which the app or workflow is based.
 *Why is my analysis sitting in the Submitted state for so long?*
 ==================================================================
 
-Analyses that use an app that runs on an HPC system can remain in the Submitted state for hours or even days. They may sit in in the queue in Submitted state waiting to run, along with other possibly long-running jobs that were in the queue first. Therefore, it may take several days for your analysis to get its turn to run. Once your analysis runs, its results will be returned to the Data Store and the DE status will change to Completed.
+Analyses that use an app that runs on an HPC system can remain in the Submitted state for hours or even days. They may sit in in the queue in Submitted state waiting to run, along with other possibly long-running jobs that were in the queue first. Therefore, it may take several days for your analysis to get its turn to run. Once your analysis runs, its results will be returned to the Data Store and you will get a Notification that the analysis status has changed to Completed.
 
 ----
 
 *Is there a limit to how many analyses (jobs) I can run at the same time in the Discovery Environment?*
 ===============================================================================================================
 
-Only 8 of your analyses will run at the same time. It’s fine to launch more, but they will not run until some of your analyses have completed.
+Only 8 of your analyses will run at the same time. You can launch more, but they will not run until some of your analyses have completed.
 
 ----
 
@@ -218,8 +220,8 @@ Because the app requires a *folder* as input, not a *file*, the files don’t sh
 
 ----
 
-*How do I rerun a job I previously ran in the DE, but change some parameters or use a different input?*
-================================================================================================================
+*How do I rerun a job I previously ran in the DE, but I want to change some parameters or use a different input?*
+================================================================================================++================
 
 You can easily relaunch the same analysis with different settings:
 
@@ -239,7 +241,7 @@ You can create a file that contains a list of up to 16 files to use as input for
 
 ----
 
-*I have a series of files that need to be analyzed by the same app, but the output files all have the same name. How do I distinguish them so I can use them in a workflow?*
+*I have a series of files that I want to analyze with the same app, but the output files all have the same name. How do I distinguish them so I can use them in a workflow?*
 =========================================================================================================================================================================================
 
 You can avoid confusion by finding the output folder in your Data list and `renaming <https://wiki.cyverse.org/wiki/display/DEmanual/Renaming+a+Data+File+or+Folder>`_ each output file with a unique name. After renaming the output files, you can then use them together in a step of the analysis workflow.
@@ -271,7 +273,7 @@ Learn more at `Sharing Files and Folders <https://wiki.cyverse.org/wiki/display/
 *When sharing a file or folder, what permission should I give to my collaborator?*
 ===================================================================================
 
-It depends on what you want to allow the collaborator to do with the file or folder. Options are read, write (ability to edit the file or folder), and own (in addition to edit, can also delete and move; use this permission with caution). Learn more `here <https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE>`_.
+It depends on what you want to allow the collaborator to do with the file or folder. Options are: read, write (ability to edit the file or folder), and own (in addition to edit, can also delete and move; use this permission with caution). Learn more `here <https://wiki.cyverse.org/wiki/display/DEmanual/Changing+and+Viewing+Data+Permission+Levels+in+the+DE>`_.
 
 ----
 
@@ -326,8 +328,8 @@ You can share an app or workflow with the general public or just with specific u
 
 There are two common reasons why an app is not “visible” or doesn’t come up in search in the Apps list:
 
-  * The app may be an HPC (high-performance computing) app, which is only displayed after you have logged in to Agave, where the HPC apps are stored. To do so, click the **HPC** tab in the Apps window and enter your CyVerse username and password.
-  * The app may not yet be public, or the app owner may not have shared the unpublished app with you. Check with the owner to see if it is indeed shared with you or public.
+  * The app may be an HPC (high-performance computing) app, which is only displayed after you have logged in to Tapis, where the HPC apps are stored. To do so, click the **HPC** tab in the Apps window and enter your CyVerse username and password.
+  * The app may not yet be public, or the app owner may not have shared the unpublished app with you. Check with the owner to see if it is indeed shared with you or is public.
 
 If you still can’t find the app, it’s possible it has been deprecated. If an app is no longer returned in a search query, `search <https://wiki.cyverse.org/wiki/display/DEmanual/Searching+for+an+App+or+Workflow#SearchingforanApporWorkflow>`_ for an app with a similar name or one that uses the same tool, topic, or operation. If you are the app integrator and need the app returned to the catalog, `contact Support (support@cyverse.org) <mailto:support@cyverse.org>`_ for assistance. `Learn more about deprecated apps <https://wiki.cyverse.org/wiki/display/DEmanual/Using+the+Apps+Window+and+Submitting+an+Analysis#UsingtheAppsWindowandSubmittinganAnalysis-ArchivedApp>`_.
 
