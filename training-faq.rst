@@ -33,8 +33,6 @@ trainings at underserved institutions (rural, HBCU/Tribal/Hispanic-serving, etc.
 
 ----
 
-----
-
 **Fix or improve this documentation**
 
 - Search for an answer:
