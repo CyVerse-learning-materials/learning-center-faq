@@ -41,7 +41,7 @@ trainings at underserved institutions (rural, HBCU/Tribal/Hispanic-serving, etc.
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `Learning@CyVerse.org <Learning@CyVerse.org>`_
 
 
 ----
