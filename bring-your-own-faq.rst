@@ -1,9 +1,18 @@
-#########################
-Bring Your Own (BYO) FAQ
-#########################
+.. include:: cyverse_rst_defined_substitutions.txt
 
-*How can I use CyVerse's tools and resources from within my program/app?*
-==============================================================================
+|CyVerse_logo|_
+
+|Home_Icon|_
+`Learning Center Home <http://learning.cyverse.org/>`_
+
+
+***************************
+Bring Your Own (BYO) FAQ
+***************************
+
+###########################################################################
+How can I use CyVerse's tools and resources from within my program/app?
+###########################################################################
 
 See the information about our |Science APIs|; you can also contact Support
 using the blue chat icon |Intercom| at the bottom right of the platform.
