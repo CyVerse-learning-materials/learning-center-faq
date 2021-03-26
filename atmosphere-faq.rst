@@ -104,6 +104,11 @@ CyVerse’s Visual Interactive Computing Environment (VICE) is the place to run 
 	- If you need Rstudio, try `rstudio-3.5.0 <https://sonora.cyverse.org/apps/de/af14e76b-83bf-4a8a-a475-9d686e1bb868/launch>`_
 	
 
+*How do I use VICE?*
+
+The best place to start is by `reviewing our guide <https://learning.cyverse.org/projects/vice/en/latest/index.html>`_. There are specific sections on using `JupyterLab <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html>`_, `RStudio <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-rstudio.html>`_, and `Shiny <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-rshiny.html>`_. You can even `share VICE apps with collaborators <https://learning.cyverse.org/projects/vice/en/latest/user_guide/sharing.html>`_.
+
+
 ----
 
 *What has happened to my community-created image?*
@@ -164,7 +169,7 @@ Atmosphere will remain available as a support service for cloud native developme
 
   .. admonition:: Expand to read more
 
-CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances. There is specific information on using `JupyterLab <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html>`_.
 
 
 ----
