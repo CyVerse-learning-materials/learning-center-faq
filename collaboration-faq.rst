@@ -5,6 +5,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
+
 *******************
 Collaboration FAQ
 *******************
