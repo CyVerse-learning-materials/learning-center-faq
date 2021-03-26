@@ -19,7 +19,11 @@
 	:maxdepth: 2
 	:caption: Services
 
-	CyVerse Services <other-cyverse-services-faq.rst>
+	Data <data-faq.rst>
+	Analyses <analyses-faq.rst>
+	Collaboration <collaboration-faq.rst>
+	Training <training-faq.rst>
+	Bring Your Own <bring-your-own-faq.rst>
 
 
 .. toctree::
