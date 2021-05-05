@@ -96,13 +96,13 @@ CyVerse staff will provide assistance for U.S.-based researchers to migrate thei
 =========================================================================================================
 
   .. admonition:: Expand to read more
-  
+
 CyVerse’s Visual Interactive Computing Environment (VICE) is the place to run analyses that you previously ran in Atmosphere.
 
 	- If you need Python, try `Jupyter Lab SciPy Notebook Latest <https://sonora.cyverse.org/apps/de/bc93504c-d584-11e9-8413-008cfa5ae621/launch>`_
 	- If you need JupyterLab, try `Jupyter Lab SciPy Notebook Latest <https://sonora.cyverse.org/apps/de/bc93504c-d584-11e9-8413-008cfa5ae621/launch>`_
 	- If you need Rstudio, try `rstudio-3.5.0 <https://sonora.cyverse.org/apps/de/af14e76b-83bf-4a8a-a475-9d686e1bb868/launch>`_
-	
+
 
 *How do I use VICE?*
 

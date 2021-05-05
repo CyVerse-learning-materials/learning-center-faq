@@ -26,6 +26,31 @@ How can I make my app available for other people to use?
 You can create a new app interface in the Discovery Environment and share it
 with other users and you also can install the app on VICE. In most cases, providing a Docker container (or a link to one) with the application of your choice is all you need to start. See the Developer's section of the |CyVerse Learning Center|.
 
+*************************
+Containers FAQ
+*************************
+
+#####################################################################
+Does CyVerse have resources for GPU and containers (e.g. to stabilize R modules using the nvidia cuda)?
+#####################################################################
+Yes, please email Tyson at tswetnam@cyverse.org for details.
+
+#####################################################################
+While container performance is greater than a VM, how much is container performance below that of native mode, in general?
+#####################################################################
+
+Please see the Conclusion section bullet #2 in `Evaluation of Docker Containers for Scientific Workloads in the Cloud <https://dl.acm.org/doi/pdf/10.1145/3219104.3229280>`_.
+
+#####################################################################
+Are there tools for scanning publicly available containers in Atmosphere VMs for malware?
+#####################################################################
+
+`Docker Hub <https://hub.docker.com/>`_ and `Quay <https://quay.io/>`_, two of the most popular public container image registries, provide security scanning for images that are uploaded to their sites. Details about how to enable or use these registries’ security scanning features can be found here:
+https://developers.redhat.com/blog/2019/06/26/using-quay-io-to-find-vulnerabilities-in-your-container-images/  and https://docs.docker.com/docker-hub/vulnerability-scanning/.
+
+Other tools to scan your container images without using Docker Hub and Quay include `Anchore <https://anchore.com/>`_, `Clair <https://github.com/quay/clair>`_, and `Trivy <https://github.com/aquasecurity/trivy>`_, with new container-based security scanning software being developed all the time. Each solution seems to take a different approach to security scanning, so you might need to experiment to find the tool that works for your workflow. The easier tools to use are Anchore, which can be used as a container itself, and Trivy, which can be installed by a package manager.
+
+When using Singularity, there is built-in integration with Clair using Singularity’s tools. Information about Singularity tools can be found here: https://github.com/singularityhub/stools
 
 ----
 
