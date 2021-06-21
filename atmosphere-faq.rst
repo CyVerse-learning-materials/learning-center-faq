@@ -92,6 +92,25 @@ CyVerse staff will provide assistance for U.S.-based researchers to migrate thei
 
 ----
 
+*I previously used Atmosphere to run instances for analysis and plotting. Where can I do this work now?*
+=========================================================================================================
+
+  .. admonition:: Expand to read more
+
+CyVerse’s Visual Interactive Computing Environment (VICE) is the place to run analyses that you previously ran in Atmosphere.
+
+	- If you need Python, try `Jupyter Lab SciPy Notebook Latest <https://sonora.cyverse.org/apps/de/bc93504c-d584-11e9-8413-008cfa5ae621/launch>`_
+	- If you need JupyterLab, try `Jupyter Lab SciPy Notebook Latest <https://sonora.cyverse.org/apps/de/bc93504c-d584-11e9-8413-008cfa5ae621/launch>`_
+	- If you need Rstudio, try `rstudio-3.5.0 <https://sonora.cyverse.org/apps/de/af14e76b-83bf-4a8a-a475-9d686e1bb868/launch>`_
+
+
+*How do I use VICE?*
+
+The best place to start is by `reviewing our guide <https://learning.cyverse.org/projects/vice/en/latest/index.html>`_. There are specific sections on using `JupyterLab <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html>`_, `RStudio <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-rstudio.html>`_, and `Shiny <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-rshiny.html>`_. You can even `share VICE apps with collaborators <https://learning.cyverse.org/projects/vice/en/latest/user_guide/sharing.html>`_.
+
+
+----
+
 *What has happened to my community-created image?*
 ===================================================
 
@@ -150,7 +169,7 @@ Atmosphere will remain available as a support service for cloud native developme
 
   .. admonition:: Expand to read more
 
-CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances.
+CyVerse's `Visual Interactive Computing Environment <https://learning.cyverse.org/projects/vice/en/latest/>`_ (VICE) within the Discovery Environment will meet your needs for doing reproducible analyses using single instances. There is specific information on using `JupyterLab <https://learning.cyverse.org/projects/vice/en/latest/user_guide/quick-jupyter.html>`_.
 
 
 ----

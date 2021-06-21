@@ -30,37 +30,27 @@ The Discovery Environment 2.0 (DE 2.0) is the same great workbench for data, app
 *What will happen to my data, analyses, results, collaborators, public datasets, etc.?*
 =========================================================================================
 
-No changes have been made that affect your data, analyses, results, etc. All your existing data in the Data Store and Data Commons and your apps and analyses can be accessed through the DE 2.0. Any changes you make going forward using either the DE 2.0 or the old DE will be reflected in both versions.
+No changes have been made that affect your data, analyses, results, etc. All your existing data in the Data Store and Data Commons and your apps and analyses can be accessed through the DE 2.0. Any changes you make going forward using either the DE 2.0 or the legacy DE will be reflected in both versions.
 
 ----
 
 *When will the DE 2.0 be available?*
 ======================================
 
-The DE 2.0 is available now! Poke around to see what’s new and take a tour: https://sonora.cyverse.org/help
+The DE 2.0 is available now! Poke around to see what’s new and take a tour: https://de.cyverse.org/help
 
 ----
 
 *Can I still use the old DE?*
 ==============================
 
-Yes, you can continue to use the old DE until we deprecate it in Summer 2021. We will announce the sunset date to all users at least 4 weeks in advance.
+- Yes, the old DE is still available to use until we turn it off on July 6, 2021.
+- Please use the legacy DE for some functions that are not yet fully operational in DE 2.0, such as:
 
-- Please use the old DE for some functions that are not yet fully operational in DE 2.0, such as:
-- - Apps: integrating new apps, editing, copying, and publishing
 - - Communities: adminstrating, managing, and browsing
 - - Teams: request to join a team and notifications related to your request
-- - Notifications: some notifications, some webhooks, and some keyboard shortcuts are not yet available
 - - Requesting access to Visual Interactive Computing Environment (VICE) apps
-- - Moving files and folders
-- To access the old DE: https://de.cyverse.org
-
-----
-
-*Why do I have to log in again to use VICE in the new DE?*
-===========================================================
-
-The prompt to login again for VICE apps is a temporary step until we upgrade VICE apps to use the same authentication service as now used in the DE 2.0.
+- To access the old DE: https://legacy-de.cyverse.org
 
 ----
 
@@ -68,16 +58,16 @@ The prompt to login again for VICE apps is a temporary step until we upgrade VIC
 =============================================
 
 *For existing users, use your account credentials to:*
-- Launch the DE 2.0 from its web address: de2.cyverse.org
+- Launch the DE 2.0 from its web address: https://de.cyverse.org
 - Launch the DE 2.0 from our website homepage (top navigation Launch menu)
 
 *For new users:*
-- Sign up for an account at CyVerse; you get access to the DE 2.0 and 2 GB of storage with your account
-- Next, login to CyVerse to validate your new account and start using DE 2.0
+- Sign up for an account at CyVerse; you get access to the DE and 2 GB of storage with your account
+- Next, login to CyVerse to validate your new account and start using the DE
 
 ----
 
-*Where can I find more information about DE 2.0?*
+*Where can I find more information about the new DE?*
 ===================================================
 
 - Take the product tour in the DE 2.0
@@ -98,7 +88,7 @@ The prompt to login again for VICE apps is a temporary step until we upgrade VIC
 *What will happen to my DE bookmark?*
 =======================================
 
-Your existing bookmark to the old DE has not changed, but will update to the DE 2.0 when the old DE is sunsetted in Summer 2021. Please bookmark the DE 2.0 web address: https://de2.cyverse.org
+Your existing bookmark to the old DE has not changed, but will update to the DE 2.0 when the old DE is sunsetted July 6, 2021. Please bookmark the DE 2.0 web address: https://de.cyverse.org
 
 
 #########################

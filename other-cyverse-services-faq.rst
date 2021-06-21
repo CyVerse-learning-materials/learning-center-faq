@@ -22,9 +22,13 @@ analyses.
 All CyVerse code is open source and can be found on |CyVerse GitHub|. Read our |Open Source Policy|.
 
 ----
+
 ##########
 Data FAQ
 ##########
+
+
+----
 
 #############
 Analysis FAQ
