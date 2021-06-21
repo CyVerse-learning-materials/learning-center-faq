@@ -19,6 +19,7 @@
 	:maxdepth: 2
 	:caption: Services
 
+	Account Portal <account-portal-faq.rst>
 	Data <data-faq.rst>
 	Analyses <analyses-faq.rst>
 	Collaboration <collaboration-faq.rst>
